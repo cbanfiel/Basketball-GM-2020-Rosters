@@ -2,11 +2,13 @@
     {
         "name": "NBA 18/19",
         "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202018-19%20Roster.json",
-        "type": "Roster"
+        "type": "Roster",
+        "logo": "https://cdn.freebiesupply.com/images/large/2x/nba-logo-transparent.png"
     },
     {
         "name": "NCAA 18/19",
         "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NCAA%202018-19%20Roster.json",
-        "type": "Roster"
+        "type": "Roster",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/1200px-NCAA_logo.svg.png"
     }
 ]
