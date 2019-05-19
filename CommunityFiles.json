@@ -1,3 +1,17 @@
 [
-
+    {
+        "name": "NBA 18/19",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202018-19%20Roster.json",
+        "type": "Roster"
+    },
+    {
+        "name": "NCAA 18/19",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NCAA%202018-19%20Roster.json",
+        "type": "Roster"
+    },
+    {
+        "name": "2019 NBA Draft Class",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2019NBADraft.json",
+        "type": "DraftClass"
+    }
 ]
