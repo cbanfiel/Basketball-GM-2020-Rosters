@@ -1,7 +1,7 @@
 [
     {
         "name": "NBA 18/19",
-        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202018-19%20Roster.json",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202018-19%20RosterV2.json",
         "type": "Roster"
     },
     {
@@ -15,8 +15,8 @@
         "type": "DraftClass"
     },
     {
-        "name": "NBA 18/19 v2",
-        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202018-19%20RosterV2.json",
+        "name": "NBA 14/15",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202014-15.json",
         "type": "Roster"
     }
     
