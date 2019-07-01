@@ -1,2 +1,7 @@
 [
+   {
+        "name": "Default Roster",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/Default%20Roster.json",
+        "type": "Roster"
+    }
 ]
