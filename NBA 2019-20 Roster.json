@@ -7408,21 +7408,6 @@
                     "age": 26
                 },
                 {
-                    "name": "Bojan Bogdanovic",
-                    "position": 2,
-                    "faceSrc": "https://a.espncdn.com/i/headshots/nba/players/full/3593.png",
-                    "number": 44,
-                    "height": "6\"8'",
-                    "off": 86,
-                    "def": 74,
-                    "threePoint": 92,
-                    "reb": 58,
-                    "ft": 80,
-                    "years": 4,
-                    "salary": 18250000,
-                    "age": 31
-                },
-                {
                     "name": "Danny Green",
                     "position": 1,
                     "faceSrc": "https://a.espncdn.com/i/headshots/nba/players/full/3988.png",
@@ -7699,6 +7684,21 @@
                     "years": 0,
                     "salary": 5250000,
                     "age": 35
+                },              
+                {
+                    "name": "Bojan Bogdanovic",
+                    "position": 2,
+                    "faceSrc": "https://a.espncdn.com/i/headshots/nba/players/full/3593.png",
+                    "number": 44,
+                    "height": "6\"8'",
+                    "off": 86,
+                    "def": 74,
+                    "threePoint": 92,
+                    "reb": 58,
+                    "ft": 80,
+                    "years": 4,
+                    "salary": 18250000,
+                    "age": 31
                 },
                 {
                     "name": "Joe Ingles",
