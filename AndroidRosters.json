@@ -11,7 +11,12 @@
     },
     {
         "name": "NCAA 2018-19",
-        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NCAA%202018-19%20Roster.json",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NCAA%202018-19%20v2.json",
+        "type": "Roster"
+    },
+    {
+        "name": "NCAA 2012-13",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NCAA%202013%20Tournament.json",
         "type": "Roster"
     },
     {
