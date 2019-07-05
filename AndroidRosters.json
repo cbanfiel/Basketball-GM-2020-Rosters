@@ -15,6 +15,11 @@
         "type": "DraftClass"
     },
     {
+        "name": "2019 NCAA Tournament Teams",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NCAA%202018-19%20v2.json",
+        "type": "Roster"
+    },
+    {
         "name": "NBA 2013-14",
         "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202014-15.json",
         "type": "Roster"
