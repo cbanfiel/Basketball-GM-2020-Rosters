@@ -3,7 +3,7 @@
         {
             "name": "Vermont",
             "id": 51,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/vermont.png",
             "roster": [
                 {
@@ -221,7 +221,7 @@
         {
             "name": "Iowa",
             "id": 36,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/iowa.png",
             "roster": [
                 {
@@ -439,7 +439,7 @@
         {
             "name": "Wofford",
             "id": 27,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/wofford.png",
             "roster": [
                 {
@@ -657,7 +657,7 @@
         {
             "name": "Kentucky",
             "id": 6,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/kentucky.png",
             "roster": [
                 {
@@ -830,7 +830,7 @@
         {
             "name": "Michigan-State",
             "id": 5,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/michigan-state.png",
             "roster": [
                 {
@@ -1078,7 +1078,7 @@
         {
             "name": "Utah-State",
             "id": 31,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/utah-state.png",
             "roster": [
                 {
@@ -1281,7 +1281,7 @@
         {
             "name": "Virginia-Commonwealth",
             "id": 28,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/virginia-commonwealth.png",
             "roster": [
                 {
@@ -1499,7 +1499,7 @@
         {
             "name": "Louisville",
             "id": 24,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/louisville.png",
             "roster": [
                 {
@@ -1702,7 +1702,7 @@
         {
             "name": "Virginia-Tech",
             "id": 15,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/virginia-tech.png",
             "roster": [
                 {
@@ -1860,7 +1860,7 @@
         {
             "name": "Mississippi-State",
             "id": 19,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/mississippi-state.png",
             "roster": [
                 {
@@ -2063,7 +2063,7 @@
         {
             "name": "Arizona-State",
             "id": 44,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/arizona-state.png",
             "roster": [
                 {
@@ -2311,7 +2311,7 @@
         {
             "name": "Maryland",
             "id": 21,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/maryland.png",
             "roster": [
                 {
@@ -2544,7 +2544,7 @@
         {
             "name": "Minnesota",
             "id": 38,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/minnesota.png",
             "roster": [
                 {
@@ -2747,7 +2747,7 @@
         {
             "name": "Florida",
             "id": 39,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/florida.png",
             "roster": [
                 {
@@ -2965,7 +2965,7 @@
         {
             "name": "Tennessee",
             "id": 4,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/tennessee.png",
             "roster": [
                 {
@@ -3183,7 +3183,7 @@
         {
             "name": "Prairie-View",
             "id": 64,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/prairie-view.png",
             "roster": [
                 {
@@ -3416,7 +3416,7 @@
         {
             "name": "Duke",
             "id": 0,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/duke.png",
             "roster": [
                 {
@@ -3634,7 +3634,7 @@
         {
             "name": "Syracuse",
             "id": 29,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/syracuse.png",
             "roster": [
                 {
@@ -3882,7 +3882,7 @@
         {
             "name": "Virginia",
             "id": 1,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/virginia.png",
             "roster": [
                 {
@@ -4100,7 +4100,7 @@
         {
             "name": "Texas-Tech",
             "id": 9,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/texas-tech.png",
             "roster": [
                 {
@@ -4318,7 +4318,7 @@
         {
             "name": "Belmont",
             "id": 41,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/belmont.png",
             "roster": [
                 {
@@ -4521,7 +4521,7 @@
         {
             "name": "Marquette",
             "id": 16,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/marquette.png",
             "roster": [
                 {
@@ -4739,7 +4739,7 @@
         {
             "name": "Kansas-State",
             "id": 14,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/kansas-state.png",
             "roster": [
                 {
@@ -4957,7 +4957,7 @@
         {
             "name": "Central-Florida",
             "id": 33,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/central-florida.png",
             "roster": [
                 {
@@ -5160,7 +5160,7 @@
         {
             "name": "Abilene-Christian",
             "id": 61,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/abilene-christian.png",
             "roster": [
                 {
@@ -5378,7 +5378,7 @@
         {
             "name": "Auburn",
             "id": 17,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/auburn.png",
             "roster": [
                 {
@@ -5641,7 +5641,7 @@
         {
             "name": "Saint-Louis",
             "id": 52,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/saint-louis.png",
             "roster": [
                 {
@@ -5859,7 +5859,7 @@
         {
             "name": "Oklahoma",
             "id": 35,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/oklahoma.png",
             "roster": [
                 {
@@ -6062,7 +6062,7 @@
         {
             "name": "Cincinnati",
             "id": 26,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/cincinnati.png",
             "roster": [
                 {
@@ -6265,7 +6265,7 @@
         {
             "name": "California-Irvine",
             "id": 50,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/california-irvine.png",
             "roster": [
                 {
@@ -6468,7 +6468,7 @@
         {
             "name": "New-Mexico-State",
             "id": 48,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/new-mexico-state.png",
             "roster": [
                 {
@@ -6701,7 +6701,7 @@
         {
             "name": "Houston",
             "id": 8,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/houston.png",
             "roster": [
                 {
@@ -6889,7 +6889,7 @@
         {
             "name": "North-Carolina",
             "id": 2,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/north-carolina.png",
             "roster": [
                 {
@@ -7137,7 +7137,7 @@
         {
             "name": "Yale",
             "id": 54,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/yale.png",
             "roster": [
                 {
@@ -7415,7 +7415,7 @@
         {
             "name": "Michigan",
             "id": 7,
-            "conferenceId": 0,
+            "conferenceId": 1,
             "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201906112/tlogo/ncaa/michigan.png",
             "roster": [
                 {
