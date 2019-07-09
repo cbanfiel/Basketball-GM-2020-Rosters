@@ -11,7 +11,9 @@
         "threePoint": 66,
         "reb": 54,
         "ft": 79,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "O.J. Mayo",
@@ -24,7 +26,9 @@
         "threePoint": 85,
         "reb": 53,
         "ft": 88,
-        "age": 21
+        "age": 21,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Eric Gordon",
@@ -37,7 +41,9 @@
         "threePoint": 86,
         "reb": 50,
         "ft": 85,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Mario Chalmers",
@@ -50,7 +56,9 @@
         "threePoint": 83,
         "reb": 52,
         "ft": 77,
-        "age": 22
+        "age": 22,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Russell Westbrook",
@@ -63,7 +71,9 @@
         "threePoint": 72,
         "reb": 60,
         "ft": 82,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Brook Lopez",
@@ -76,7 +86,9 @@
         "threePoint": 40,
         "reb": 75,
         "ft": 79,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Jason Thompson",
@@ -89,7 +101,9 @@
         "threePoint": 40,
         "reb": 75,
         "ft": 69,
-        "age": 22
+        "age": 22,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Luc Mbah a Moute",
@@ -102,7 +116,9 @@
         "threePoint": 40,
         "reb": 70,
         "ft": 73,
-        "age": 22
+        "age": 22,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "D.J. Augustin",
@@ -115,7 +131,9 @@
         "threePoint": 92,
         "reb": 49,
         "ft": 89,
-        "age": 21
+        "age": 21,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Courtney Lee",
@@ -128,7 +146,9 @@
         "threePoint": 88,
         "reb": 52,
         "ft": 83,
-        "age": 23
+        "age": 23,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Kevin Love",
@@ -141,7 +161,9 @@
         "threePoint": 52,
         "reb": 88,
         "ft": 79,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Michael Beasley",
@@ -154,7 +176,9 @@
         "threePoint": 88,
         "reb": 69,
         "ft": 77,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Brandon Rush",
@@ -167,7 +191,9 @@
         "threePoint": 84,
         "reb": 57,
         "ft": 70,
-        "age": 23
+        "age": 23,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Serge Ibaka",
@@ -180,7 +206,9 @@
         "threePoint": 99,
         "reb": 80,
         "ft": 63,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Kyle Weaver",
@@ -193,7 +221,9 @@
         "threePoint": 81,
         "reb": 55,
         "ft": 71,
-        "age": 22
+        "age": 22,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Darrell Arthur",
@@ -206,7 +236,9 @@
         "threePoint": 40,
         "reb": 72,
         "ft": 67,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Ryan Anderson",
@@ -219,7 +251,9 @@
         "threePoint": 83,
         "reb": 71,
         "ft": 85,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "D.J. White",
@@ -232,7 +266,9 @@
         "threePoint": 40,
         "reb": 73,
         "ft": 77,
-        "age": 22
+        "age": 22,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Anthony Randolph",
@@ -245,7 +281,9 @@
         "threePoint": 40,
         "reb": 83,
         "ft": 72,
-        "age": 19
+        "age": 19,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Nicolas Batum",
@@ -258,7 +296,9 @@
         "threePoint": 84,
         "reb": 60,
         "ft": 81,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "DeAndre Jordan",
@@ -271,7 +311,9 @@
         "threePoint": 40,
         "reb": 81,
         "ft": 39,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "JaVale McGee",
@@ -284,7 +326,9 @@
         "threePoint": 40,
         "reb": 74,
         "ft": 66,
-        "age": 21
+        "age": 21,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "George Hill",
@@ -297,7 +341,9 @@
         "threePoint": 79,
         "reb": 57,
         "ft": 78,
-        "age": 22
+        "age": 22,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Marreese Speights",
@@ -310,7 +356,9 @@
         "threePoint": 70,
         "reb": 71,
         "ft": 77,
-        "age": 21
+        "age": 21,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Roy Hibbert",
@@ -323,20 +371,24 @@
         "threePoint": 40,
         "reb": 72,
         "ft": 67,
-        "age": 22
+        "age": 22,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Mike Taylor",
         "position": 0,
         "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-        "number": 39,
+        "number": 9,
         "height": "6\"2'",
         "off": 67,
         "def": 56,
         "threePoint": 78,
         "reb": 55,
         "ft": 69,
-        "age": 23
+        "age": 23,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Danilo Gallinari",
@@ -349,7 +401,9 @@
         "threePoint": 92,
         "reb": 58,
         "ft": 96,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Chris Douglas-Roberts",
@@ -362,20 +416,24 @@
         "threePoint": 70,
         "reb": 51,
         "ft": 82,
-        "age": 22
+        "age": 22,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Goran Dragic",
         "position": 0,
         "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-        "number": 38,
+        "number": 9,
         "height": "6\"4'",
         "off": 65,
         "def": 53,
         "threePoint": 84,
         "reb": 59,
         "ft": 77,
-        "age": 22
+        "age": 22,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Kosta Koufos",
@@ -388,20 +446,24 @@
         "threePoint": 40,
         "reb": 73,
         "ft": 71,
-        "age": 19
+        "age": 19,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Donte Greene",
         "position": 2,
         "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-        "number": 3,
+        "number": 19,
         "height": "6\"11'",
         "off": 64,
         "def": 53,
         "threePoint": 71,
         "reb": 56,
         "ft": 85,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Joe Alexander",
@@ -414,7 +476,9 @@
         "threePoint": 81,
         "reb": 61,
         "ft": 70,
-        "age": 22
+        "age": 22,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Jerryd Bayless",
@@ -427,7 +491,9 @@
         "threePoint": 71,
         "reb": 52,
         "ft": 81,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "J.J. Hickson",
@@ -440,7 +506,9 @@
         "threePoint": 40,
         "reb": 71,
         "ft": 67,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Robin Lopez",
@@ -453,7 +521,9 @@
         "threePoint": 40,
         "reb": 66,
         "ft": 69,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Malik Hairston",
@@ -466,33 +536,39 @@
         "threePoint": 40,
         "reb": 64,
         "ft": 29,
-        "age": 21
+        "age": 21,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Joe Crawford",
         "position": 2,
         "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-        "number": 40,
+        "number": 36,
         "height": "6\"5'",
         "off": 60,
         "def": 51,
         "threePoint": 70,
         "reb": 63,
         "ft": 99,
-        "age": 22
+        "age": 22,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Bill Walker",
         "position": 1,
         "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-        "number": 10,
+        "number": 13,
         "height": "6\"6'",
         "off": 59,
         "def": 50,
         "threePoint": 40,
         "reb": 58,
         "ft": 70,
-        "age": 21
+        "age": 21,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Darnell Jackson",
@@ -505,33 +581,39 @@
         "threePoint": 40,
         "reb": 67,
         "ft": 69,
-        "age": 23
+        "age": 23,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Sean Singletary",
         "position": 0,
         "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-        "number": 37,
+        "number": 28,
         "height": "6\"0'",
         "off": 56,
         "def": 50,
         "threePoint": 87,
         "reb": 55,
         "ft": 86,
-        "age": 23
+        "age": 23,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Alexis Ajinca",
         "position": 4,
         "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-        "number": 11,
+        "number": 22,
         "height": "7\"0'",
         "off": 53,
         "def": 50,
         "threePoint": 40,
         "reb": 63,
         "ft": 71,
-        "age": 20
+        "age": 20,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "J.R. Giddens",
@@ -544,20 +626,24 @@
         "threePoint": 40,
         "reb": 91,
         "ft": 0,
-        "age": 23
+        "age": 23,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Walter Sharpe",
         "position": 3,
         "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-        "number": 24,
+        "number": 4,
         "height": "6\"9'",
         "off": 50,
         "def": 50,
         "threePoint": 40,
         "reb": 61,
         "ft": 0,
-        "age": 22
+        "age": 22,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Joey Dorsey",
@@ -570,7 +656,9 @@
         "threePoint": 40,
         "reb": 60,
         "ft": 0,
-        "age": 25
+        "age": 25,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Sonny Weems",
@@ -583,7 +671,9 @@
         "threePoint": 40,
         "reb": 49,
         "ft": 38,
-        "age": 22
+        "age": 22,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "Nathan Jawai",
@@ -596,7 +686,9 @@
         "threePoint": 40,
         "reb": 52,
         "ft": 0,
-        "age": 22
+        "age": 22,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -609,7 +701,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -622,7 +716,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -635,7 +731,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -648,7 +746,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -661,7 +761,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -674,7 +776,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -687,7 +791,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -700,7 +806,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -713,7 +821,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -726,7 +836,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -739,7 +851,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -752,7 +866,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -765,7 +881,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -778,7 +896,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -791,7 +911,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -804,7 +926,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -817,7 +941,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -830,7 +956,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -843,7 +971,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -856,7 +986,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -869,7 +1001,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -882,7 +1016,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -895,7 +1031,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -908,7 +1046,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -921,7 +1061,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -934,7 +1076,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -947,7 +1091,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -960,7 +1106,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -973,7 +1121,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -986,7 +1136,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -999,7 +1151,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       },
       {
         "name": "John Smith",
@@ -1012,7 +1166,9 @@
         "threePoint": 40,
         "reb": 40,
         "ft": 40,
-        "age": 40
+        "age": 40,
+        "years": 3,
+        "salary": 1100000
       }
     ]
 }
