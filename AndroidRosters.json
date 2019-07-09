@@ -69,7 +69,12 @@
         "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202005-06.json",
         "type": "Roster"
     },
-        {
+    {
+        "name": "NBA 1995-96",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%201995-96.json",
+        "type": "Roster"
+    },
+    {
         "name": "2008 NBA Draft",
         "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2008NBADraft.json",
         "type": "DraftClass"
