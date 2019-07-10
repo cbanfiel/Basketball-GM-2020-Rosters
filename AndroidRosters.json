@@ -1,12 +1,12 @@
 [
     {
-        "name": "NBA 2018-19",
-        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202018-19%20RosterV2.json",
+        "name": "NBA 2019-20 WIP",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202019-20%20Roster.json",
         "type": "Roster"
     },
     {
-        "name": "NBA 2019-20 WIP",
-        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202019-20%20Roster.json",
+        "name": "NBA 2018-19",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202018-19%20RosterV2.json",
         "type": "Roster"
     },
     {
@@ -73,6 +73,16 @@
         "name": "NBA 1995-96",
         "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%201995-96.json",
         "type": "Roster"
+    },
+    {
+        "name": "2013 NBA Draft",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2013NBADraft.json",
+        "type": "DraftClass"
+    }, 
+    {
+        "name": "2012 NBA Draft",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2012NBADraft.json",
+        "type": "DraftClass"
     },
     {
         "name": "2011 NBA Draft",
