@@ -75,6 +75,21 @@
         "type": "Roster"
     },
     {
+        "name": "2011 NBA Draft",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2011NBADraft.json",
+        "type": "DraftClass"
+    },
+    {
+        "name": "2010 NBA Draft",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2010NBADraft.json",
+        "type": "DraftClass"
+    },
+    {
+        "name": "2009 NBA Draft",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2009NBADraft.json",
+        "type": "DraftClass"
+    },
+    {
         "name": "2008 NBA Draft",
         "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2008NBADraft.json",
         "type": "DraftClass"
