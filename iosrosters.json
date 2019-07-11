@@ -1,3 +1,117 @@
 [
-
+    {
+        "name": "NBA 2019-20 WIP",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202019-20%20Roster.json",
+        "type": "Roster"
+    },
+    {
+        "name": "NBA 2018-19",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202018-19%20RosterV2.json",
+        "type": "Roster"
+    },
+    {
+        "name": "2019 NBA Draft Class",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2019NBADraft.json",
+        "type": "DraftClass"
+    },
+    {
+        "name": "2019 NCAA Tournament Teams",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NCAA%202018-19%20v2.json",
+        "type": "Roster"
+    },
+    {
+        "name": "2013 NCAA Tournament Teams",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NCAA%202013%20Tournament.json",
+        "type": "Roster"
+    },
+    {
+        "name": "NBA 2013-14",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202013-14.json",
+        "type": "Roster"
+    },
+    {
+        "name": "NBA 2012-13",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202012-13.json",
+        "type": "Roster"
+    },
+    {
+        "name": "NBA 2011-12",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202011-12.json",
+        "type": "Roster"
+    },
+    {
+        "name": "NBA 2010-11",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202010-11.json",
+        "type": "Roster"
+    },
+    {
+        "name": "NBA 2009-10",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202009-10.json",
+        "type": "Roster"
+    },
+    {
+        "name": "NBA 2008-09",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202008-09.json",
+        "type": "Roster"
+    },
+    {
+        "name": "NBA 2007-08",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202007-08.json",
+        "type": "Roster"
+    },
+    {
+        "name": "NBA 2006-07",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202006-07.json",
+        "type": "Roster"
+    },
+    {
+        "name": "NBA 2005-06",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202005-06.json",
+        "type": "Roster"
+    },
+    {
+        "name": "NBA 1995-96",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%201995-96.json",
+        "type": "Roster"
+    },
+    {
+        "name": "2013 NBA Draft",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2013NBADraft.json",
+        "type": "DraftClass"
+    }, 
+    {
+        "name": "2012 NBA Draft",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2012NBADraft.json",
+        "type": "DraftClass"
+    },
+    {
+        "name": "2011 NBA Draft",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2011NBADraft.json",
+        "type": "DraftClass"
+    },
+    {
+        "name": "2010 NBA Draft",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2010NBADraft.json",
+        "type": "DraftClass"
+    },
+    {
+        "name": "2009 NBA Draft",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2009NBADraft.json",
+        "type": "DraftClass"
+    },
+    {
+        "name": "2008 NBA Draft",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2008NBADraft.json",
+        "type": "DraftClass"
+    },
+    {
+        "name": "2007 NBA Draft",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2007NBADraft.json",
+        "type": "DraftClass"
+    },
+    {
+        "name": "2006 NBA Draft",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2006NBADraft.json",
+        "type": "DraftClass"
+    }
 ]
