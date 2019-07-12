@@ -6747,19 +6747,19 @@
             "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
             "roster": [
                 {
-                    "name": "Russell Westbrook",
+                    "name": "Chris Paul",
                     "position": 0,
-                    "faceSrc": "https://a.espncdn.com/i/headshots/nba/players/full/3468.png",
-                    "number": 0,
-                    "height": "6\"3'",
-                    "off": 99,
-                    "def": 87,
-                    "threePoint": 73,
-                    "reb": 90,
-                    "ft": 68,
-                    "years": 4,
-                    "salary": 31737230,
-                    "age": 31
+                    "faceSrc": "https://a.espncdn.com/i/headshots/nba/players/full/2779.png",
+                    "number": 3,
+                    "height": "6\"0'",
+                    "off": 88,
+                    "def": 86,
+                    "threePoint": 79,
+                    "reb": 63,
+                    "ft": 85,
+                    "years": 3,
+                    "salary": 39932648,
+                    "age": 34
                 },
                 {
                     "name": "Danilo Gallinari",
@@ -7641,6 +7641,21 @@
                     "age": 30
                 },
                 {
+                    "name": "Russell Westbrook",
+                    "position": 0,
+                    "faceSrc": "https://a.espncdn.com/i/headshots/nba/players/full/3468.png",
+                    "number": 0,
+                    "height": "6\"3'",
+                    "off": 99,
+                    "def": 87,
+                    "threePoint": 73,
+                    "reb": 90,
+                    "ft": 68,
+                    "years": 4,
+                    "salary": 31737230,
+                    "age": 31
+                },
+                {
                     "name": "Clint Capela",
                     "position": 4,
                     "faceSrc": "https://a.espncdn.com/i/headshots/nba/players/full/3102529.png",
@@ -7654,21 +7669,6 @@
                     "years": 4,
                     "salary": 17476012.2,
                     "age": 25
-                },
-                {
-                    "name": "Chris Paul",
-                    "position": 0,
-                    "faceSrc": "https://a.espncdn.com/i/headshots/nba/players/full/2779.png",
-                    "number": 3,
-                    "height": "6\"0'",
-                    "off": 88,
-                    "def": 86,
-                    "threePoint": 79,
-                    "reb": 63,
-                    "ft": 85,
-                    "years": 3,
-                    "salary": 39932648,
-                    "age": 34
                 },
                 {
                     "name": "Kenneth Faried",
