@@ -1682,21 +1682,6 @@
                     "age": 27
                 },
                 {
-                    "name": "Tyson Chandler",
-                    "position": 4,
-                    "faceSrc": "https://a.espncdn.com/i/headshots/nba/players/full/984.png",
-                    "number": 16,
-                    "height": "7\"1'",
-                    "off": 79,
-                    "def": 69,
-                    "threePoint": 47,
-                    "reb": 67,
-                    "ft": 58,
-                    "years": 0,
-                    "salary": 13585000,
-                    "age": 37
-                },
-                {
                     "name": "Jared Dudley",
                     "position": 3,
                     "faceSrc": "https://a.espncdn.com/i/headshots/nba/players/full/3201.png",
@@ -6544,6 +6529,21 @@
                     "age": 28
                 },
                 {
+                    "name": "Markieff Morris",
+                    "position": 3,
+                    "faceSrc": "https://a.espncdn.com/i/headshots/nba/players/full/6461.png",
+                    "number": 5,
+                    "height": "6\"10'",
+                    "off": 77,
+                    "def": 71,
+                    "threePoint": 74,
+                    "reb": 63,
+                    "ft": 76,
+                    "years": 0,
+                    "salary": 8600000,
+                    "age": 30
+                },
+                {
                     "name": "Tim Frazier",
                     "position": 0,
                     "faceSrc": "https://a.espncdn.com/i/headshots/nba/players/full/2488945.png",
@@ -6835,21 +6835,6 @@
                     "years": 1,
                     "salary": 10370370.5,
                     "age": 26
-                },
-                {
-                    "name": "Markieff Morris",
-                    "position": 3,
-                    "faceSrc": "https://a.espncdn.com/i/headshots/nba/players/full/6461.png",
-                    "number": 5,
-                    "height": "6\"10'",
-                    "off": 77,
-                    "def": 71,
-                    "threePoint": 74,
-                    "reb": 63,
-                    "ft": 76,
-                    "years": 0,
-                    "salary": 8600000,
-                    "age": 30
                 },
                 {
                     "name": "Nerlens Noel",
@@ -7744,6 +7729,21 @@
                     "years": 2,
                     "salary": 12000000,
                     "age": 27
+                },
+                {
+                    "name": "Tyson Chandler",
+                    "position": 4,
+                    "faceSrc": "https://a.espncdn.com/i/headshots/nba/players/full/984.png",
+                    "number": 16,
+                    "height": "7\"1'",
+                    "off": 79,
+                    "def": 69,
+                    "threePoint": 47,
+                    "reb": 67,
+                    "ft": 58,
+                    "years": 0,
+                    "salary": 13585000,
+                    "age": 37
                 },
                 {
                     "name": "Chris Chiozza",
