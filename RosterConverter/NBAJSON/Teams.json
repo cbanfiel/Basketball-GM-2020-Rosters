@@ -1,0 +1,272 @@
+[
+  {
+    "id": 0,
+    "name": "Atlanta Hawks",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 0
+  },
+  {
+    "id": 1,
+    "name": "Boston Celtics",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 0
+  },
+  {
+    "id": 2,
+    "name": "Brooklyn Nets",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 0
+  },
+  {
+    "id": 3,
+    "name": "Charlotte Hornets",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 0
+  },
+  {
+    "id": 4,
+    "name": "Chicago Bulls",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 0
+  },
+  {
+    "id": 5,
+    "name": "Cleveland Cavaliers",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 0
+  },
+  {
+    "id": 6,
+    "name": "Dallas Mavericks",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 1
+  },
+  {
+    "id": 7,
+    "name": "Denver Nuggets",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 1
+  },
+  {
+    "id": 8,
+    "name": "Detroit Pistons",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 0
+  },
+  {
+    "id": 9,
+    "name": "Golden State Warriors",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 1
+  },
+  {
+    "id": 10,
+    "name": "Houston Rockets",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 1
+  },
+  {
+    "id": 11,
+    "name": "Indiana Pacers",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 0
+  },
+  {
+    "id": 12,
+    "name": "Los Angeles Clippers",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 1
+  },
+  {
+    "id": 13,
+    "name": "Los Angeles Lakers",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 1
+  },
+  {
+    "id": 14,
+    "name": "Memphis Grizzlies",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 1
+  },
+  {
+    "id": 15,
+    "name": "Miami Heat",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 0
+  },
+  {
+    "id": 16,
+    "name": "Milwaukee Bucks",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 0
+  },
+  {
+    "id": 17,
+    "name": "Minnesota Timberwolves",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 1
+  },
+  {
+    "id": 18,
+    "name": "New Orleans Pelicans",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 1
+  },
+  {
+    "id": 19,
+    "name": "New York Knicks",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/nyk.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 0
+  },
+  {
+    "id": 20,
+    "name": "Oklahoma City Thunder",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 1
+  },
+  {
+    "id": 21,
+    "name": "Orlando Magic",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 0
+  },
+  {
+    "id": 22,
+    "name": "Philadelphia 76ers",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 0
+  },
+  {
+    "id": 23,
+    "name": "Phoenix Suns",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 1
+  },
+  {
+    "id": 24,
+    "name": "Portland Trail Blazers",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 1
+  },
+  {
+    "id": 25,
+    "name": "Sacramento Kings",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 1
+  },
+  {
+    "id": 26,
+    "name": "San Antonio Spurs",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 1
+  },
+  {
+    "id": 27,
+    "name": "Utah Jazz",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 1
+  },
+  {
+    "id": 28,
+    "name": "Toronto Raptors",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 0
+  },
+  {
+    "id": 29,
+    "name": "Washington Wizards",
+    "rating": 60,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nba/500/was.png",
+    "wins": 0,
+    "losses": 0,
+    "conferenceId": 0
+  }
+]
