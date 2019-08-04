@@ -1,12 +1,12 @@
 [
     {
         "name": "NBA 2019-20 WIP",
-        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202019-20%20Roster.json",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA2019-20v2.json",
         "type": "Roster"
     },
     {
         "name": "NBA 2018-19",
-        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA%202018-19%20RosterV2.json",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA2018-19v3.json",
         "type": "Roster"
     },
     {
