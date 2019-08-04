@@ -1,6 +1,6 @@
 [
     {
-        "name": "NBA 2019-20 WIP",
+        "name": "NBA 2019-20",
         "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA2019-20v2.json",
         "type": "Roster"
     },
@@ -115,10 +115,5 @@
         "name": "2006 NBA Draft",
         "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/2006NBADraft.json",
         "type": "DraftClass"
-    },
-    {
-        "name": "NBA 2019-20 LQ Test",
-        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA1920LQ.json",
-        "type": "Roster"
     }
 ]
