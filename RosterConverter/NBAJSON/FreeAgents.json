@@ -78,19 +78,6 @@
     "age": 26
   },
   {
-    "name": "Amile Jefferson",
-    "position": 3,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2982249.png&w=200&h=145",
-    "number": 11,
-    "height": "6\"9'",
-    "off": 76,
-    "def": 58,
-    "threePoint": 40,
-    "reb": 49,
-    "ft": 87,
-    "age": 26
-  },
-  {
     "name": "Amir Johnson",
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2769.png&w=200&h=145",
@@ -182,19 +169,6 @@
     "age": 27
   },
   {
-    "name": "Cheick Diallo",
-    "position": 4,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3919335.png&w=200&h=145",
-    "number": 13,
-    "height": "6\"9'",
-    "off": 82,
-    "def": 70,
-    "threePoint": 41,
-    "reb": 63,
-    "ft": 74,
-    "age": 23
-  },
-  {
     "name": "Christian Wood",
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3058254.png&w=200&h=145",
@@ -273,19 +247,6 @@
     "age": 37
   },
   {
-    "name": "Devin Robinson",
-    "position": 2,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3137798.png&w=200&h=145",
-    "number": 7,
-    "height": "6\"8'",
-    "off": 79,
-    "def": 55,
-    "threePoint": 42,
-    "reb": 54,
-    "ft": 63,
-    "age": 25
-  },
-  {
     "name": "Donatas Motiejunas",
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6464.png&w=200&h=145",
@@ -299,19 +260,6 @@
     "age": 29
   },
   {
-    "name": "Dragan Bender",
-    "position": 3,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4011991.png&w=200&h=145",
-    "number": 35,
-    "height": "7\"1'",
-    "off": 73,
-    "def": 69,
-    "threePoint": 51,
-    "reb": 58,
-    "ft": 58,
-    "age": 22
-  },
-  {
     "name": "Ekpe Udoh",
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4261.png&w=200&h=145",
@@ -323,19 +271,6 @@
     "reb": 49,
     "ft": 62,
     "age": 32
-  },
-  {
-    "name": "Furkan Korkmaz",
-    "position": 2,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3929325.png&w=200&h=145",
-    "number": 30,
-    "height": "6\"7'",
-    "off": 73,
-    "def": 75,
-    "threePoint": 72,
-    "reb": 49,
-    "ft": 81,
-    "age": 22
   },
   {
     "name": "George King",
@@ -375,19 +310,6 @@
     "reb": 45,
     "ft": 67,
     "age": 24
-  },
-  {
-    "name": "Henry Ellenson",
-    "position": 3,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3906522.png&w=200&h=145",
-    "number": 8,
-    "height": "6\"11'",
-    "off": 72,
-    "def": 66,
-    "threePoint": 96,
-    "reb": 58,
-    "ft": 75,
-    "age": 23
   },
   {
     "name": "Ian Clark",
@@ -624,19 +546,6 @@
     "age": 26
   },
   {
-    "name": "Justin Holiday",
-    "position": 1,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2284101.png&w=200&h=145",
-    "number": 7,
-    "height": "6\"6'",
-    "off": 77,
-    "def": 67,
-    "threePoint": 77,
-    "reb": 58,
-    "ft": 89,
-    "age": 31
-  },
-  {
     "name": "Kenneth Faried",
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6433.png&w=200&h=145",
@@ -661,19 +570,6 @@
     "reb": 58,
     "ft": 41,
     "age": 31
-  },
-  {
-    "name": "Kyle Korver",
-    "position": 1,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2011.png&w=200&h=145",
-    "number": 26,
-    "height": "6\"7'",
-    "off": 77,
-    "def": 71,
-    "threePoint": 86,
-    "reb": 49,
-    "ft": 81,
-    "age": 39
   },
   {
     "name": "Lance Stephenson",
@@ -780,19 +676,6 @@
     "age": 26
   },
   {
-    "name": "Pau Gasol",
-    "position": 4,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/996.png&w=200&h=145",
-    "number": 16,
-    "height": "7\"0'",
-    "off": 74,
-    "def": 78,
-    "threePoint": 41,
-    "reb": 63,
-    "ft": 69,
-    "age": 39
-  },
-  {
     "name": "Quincy Pondexter",
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4253.png&w=200&h=145",
@@ -858,19 +741,6 @@
     "age": 35
   },
   {
-    "name": "Reggie Bullock",
-    "position": 2,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2528779.png&w=200&h=145",
-    "number": 25,
-    "height": "6\"7'",
-    "off": 78,
-    "def": 70,
-    "threePoint": 82,
-    "reb": 54,
-    "ft": 85,
-    "age": 29
-  },
-  {
     "name": "Ryan Anderson",
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3412.png&w=200&h=145",
@@ -910,19 +780,6 @@
     "age": 25
   },
   {
-    "name": "Shaquille Harrison",
-    "position": 0,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2991274.png&w=200&h=145",
-    "number": 10,
-    "height": "6\"4'",
-    "off": 75,
-    "def": 71,
-    "threePoint": 61,
-    "reb": 54,
-    "ft": 66,
-    "age": 26
-  },
-  {
     "name": "Shaun Livingston",
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2393.png&w=200&h=145",
@@ -947,19 +804,6 @@
     "reb": 49,
     "ft": 68,
     "age": 29
-  },
-  {
-    "name": "Sindarius Thornwell",
-    "position": 1,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3064539.png&w=200&h=145",
-    "number": 0,
-    "height": "6\"5'",
-    "off": 65,
-    "def": 77,
-    "threePoint": 48,
-    "reb": 45,
-    "ft": 73,
-    "age": 25
   },
   {
     "name": "Thabo Sefolosha",
@@ -1014,19 +858,6 @@
     "age": 26
   },
   {
-    "name": "Trey Burke",
-    "position": 0,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2579260.png&w=200&h=145",
-    "number": 23,
-    "height": "6\"1'",
-    "off": 79,
-    "def": 71,
-    "threePoint": 77,
-    "reb": 49,
-    "ft": 82,
-    "age": 27
-  },
-  {
     "name": "Troy Williams",
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3078286.png&w=200&h=145",
@@ -1063,19 +894,6 @@
     "threePoint": 74,
     "reb": 49,
     "ft": 61,
-    "age": 24
-  },
-  {
-    "name": "Tyler Lydon",
-    "position": 3,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3934662.png&w=200&h=145",
-    "number": 20,
-    "height": "6\"9'",
-    "off": 71,
-    "def": 69,
-    "threePoint": 43,
-    "reb": 45,
-    "ft": 32,
     "age": 24
   },
   {
@@ -1142,6 +960,110 @@
     "reb": 58,
     "ft": 77,
     "age": 36
+  },
+  {
+    "name": "Tyler Zeller",
+    "position": 4,
+    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "number": 44,
+    "height": "7\"0'",
+    "off": 76,
+    "def": 76,
+    "threePoint": 58,
+    "reb": 87,
+    "ft": 61,
+    "age": 31
+  },
+  {
+    "name": "Eric Moreland",
+    "position": 3,
+    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "number": 24,
+    "height": "6\"10'",
+    "off": 72,
+    "def": 72,
+    "threePoint": 58,
+    "reb": 81,
+    "ft": 61,
+    "age": 30
+  },
+  {
+    "name": "Jonathan Gibson",
+    "position": 0,
+    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "number": 60,
+    "height": "6\"2'",
+    "off": 72,
+    "def": 72,
+    "threePoint": 72,
+    "reb": 50,
+    "ft": 72,
+    "age": 30
+  },
+  {
+    "name": "Jason Smith",
+    "position": 4,
+    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "number": 14,
+    "height": "7\"0'",
+    "off": 70,
+    "def": 70,
+    "threePoint": 55,
+    "reb": 84,
+    "ft": 57,
+    "age": 33
+  },
+  {
+    "name": "Ben McLemore",
+    "position": 1,
+    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "number": 23,
+    "height": "6\"5'",
+    "off": 70,
+    "def": 70,
+    "threePoint": 70,
+    "reb": 50,
+    "ft": 70,
+    "age": 26
+  },
+  {
+    "name": "David Stockton",
+    "position": 0,
+    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "number": 22,
+    "height": "5\"11'",
+    "off": 67,
+    "def": 67,
+    "threePoint": 67,
+    "reb": 49,
+    "ft": 67,
+    "age": 37
+  },
+  {
+    "name": "Zach Lofton",
+    "position": 1,
+    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "number": 18,
+    "height": "6\"4'",
+    "off": 66,
+    "def": 66,
+    "threePoint": 66,
+    "reb": 48,
+    "ft": 66,
+    "age": 27
+  },
+  {
+    "name": "Keenan Evans",
+    "position": 0,
+    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "number": 12,
+    "height": "6\"3'",
+    "off": 65,
+    "def": 65,
+    "threePoint": 65,
+    "reb": 48,
+    "ft": 65,
+    "age": 23
   },
   {
     "name": "Zach Randolph",
@@ -1233,19 +1155,6 @@
     "reb": 83,
     "ft": 64,
     "age": 30
-  },
-  {
-    "name": "Tyler Zeller",
-    "position": 4,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 44,
-    "height": "7\"0'",
-    "off": 76,
-    "def": 76,
-    "threePoint": 58,
-    "reb": 87,
-    "ft": 61,
-    "age": 31
   },
   {
     "name": "Tony Allen",
@@ -1625,19 +1534,6 @@
     "age": 34
   },
   {
-    "name": "Eric Moreland",
-    "position": 3,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 24,
-    "height": "6\"10'",
-    "off": 72,
-    "def": 72,
-    "threePoint": 58,
-    "reb": 81,
-    "ft": 61,
-    "age": 30
-  },
-  {
     "name": "Jameer Nelson",
     "position": 0,
     "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
@@ -1714,19 +1610,6 @@
     "reb": 85,
     "ft": 58,
     "age": 31
-  },
-  {
-    "name": "Jonathan Gibson",
-    "position": 0,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 60,
-    "height": "6\"2'",
-    "off": 72,
-    "def": 72,
-    "threePoint": 72,
-    "reb": 50,
-    "ft": 72,
-    "age": 30
   },
   {
     "name": "Ron Baker",
@@ -2052,32 +1935,6 @@
     "reb": 80,
     "ft": 60,
     "age": 35
-  },
-  {
-    "name": "Jason Smith",
-    "position": 4,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 14,
-    "height": "7\"0'",
-    "off": 70,
-    "def": 70,
-    "threePoint": 55,
-    "reb": 84,
-    "ft": 57,
-    "age": 33
-  },
-  {
-    "name": "Ben McLemore",
-    "position": 1,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 23,
-    "height": "6\"5'",
-    "off": 70,
-    "def": 70,
-    "threePoint": 70,
-    "reb": 50,
-    "ft": 70,
-    "age": 26
   },
   {
     "name": "Andrew Harrison�",
@@ -2704,19 +2561,6 @@
     "age": 33
   },
   {
-    "name": "David Stockton",
-    "position": 0,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 22,
-    "height": "5\"11'",
-    "off": 67,
-    "def": 67,
-    "threePoint": 67,
-    "reb": 49,
-    "ft": 67,
-    "age": 37
-  },
-  {
     "name": "Erik McCree",
     "position": 3,
     "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
@@ -3068,19 +2912,6 @@
     "age": 24
   },
   {
-    "name": "Zach Lofton",
-    "position": 1,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 18,
-    "height": "6\"4'",
-    "off": 66,
-    "def": 66,
-    "threePoint": 66,
-    "reb": 48,
-    "ft": 66,
-    "age": 27
-  },
-  {
     "name": "Jabari Bird",
     "position": 1,
     "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
@@ -3287,19 +3118,6 @@
     "reb": 48,
     "ft": 65,
     "age": 32
-  },
-  {
-    "name": "Keenan Evans",
-    "position": 0,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 12,
-    "height": "6\"3'",
-    "off": 65,
-    "def": 65,
-    "threePoint": 65,
-    "reb": 48,
-    "ft": 65,
-    "age": 23
   },
   {
     "name": "Jordan Sibert",
