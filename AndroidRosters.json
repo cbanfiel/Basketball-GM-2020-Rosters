@@ -21,6 +21,12 @@
         "sliderType": "college"
     },
     {
+        "name": "2019 NCAA Tournament Teams v2 Test",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NCAA%202018-19%20v3.json",
+        "type": "Roster",
+        "sliderType": "college"
+    },
+    {
         "name": "2013 NCAA Tournament Teams",
         "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NCAA%202013%20Tournament.json",
         "type": "Roster",
