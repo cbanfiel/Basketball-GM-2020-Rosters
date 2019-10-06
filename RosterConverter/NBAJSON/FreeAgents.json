@@ -351,19 +351,6 @@
     "age": 40
   },
   {
-    "name": "Jarell Martin",
-    "position": 3,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3064517.png&w=200&h=145",
-    "number": 2,
-    "height": "6\"10'",
-    "off": 70,
-    "def": 72,
-    "threePoint": 77,
-    "reb": 49,
-    "ft": 81,
-    "age": 25
-  },
-  {
     "name": "Jaylen Adams",
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3133874.png&w=200&h=145",
@@ -663,19 +650,6 @@
     "age": 29
   },
   {
-    "name": "P.J. Dozier",
-    "position": 1,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 50,
-    "height": "6\"6'",
-    "off": 66,
-    "def": 66,
-    "threePoint": 66,
-    "reb": 66,
-    "ft": 60,
-    "age": 26
-  },
-  {
     "name": "Quincy Pondexter",
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4253.png&w=200&h=145",
@@ -741,19 +715,6 @@
     "age": 35
   },
   {
-    "name": "Ryan Anderson",
-    "position": 3,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3412.png&w=200&h=145",
-    "number": 11,
-    "height": "6\"10'",
-    "off": 65,
-    "def": 77,
-    "threePoint": 52,
-    "reb": 49,
-    "ft": 74,
-    "age": 31
-  },
-  {
     "name": "Salah Mejri",
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2968458.png&w=200&h=145",
@@ -806,19 +767,6 @@
     "age": 29
   },
   {
-    "name": "Thabo Sefolosha",
-    "position": 2,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3028.png&w=200&h=145",
-    "number": 22,
-    "height": "6\"7'",
-    "off": 75,
-    "def": 75,
-    "threePoint": 94,
-    "reb": 54,
-    "ft": 63,
-    "age": 35
-  },
-  {
     "name": "Timofey Mozgov",
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4298.png&w=200&h=145",
@@ -830,19 +778,6 @@
     "reb": 74,
     "ft": 60,
     "age": 26
-  },
-  {
-    "name": "Timothe Luwawu-Cabarrot",
-    "position": 1,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3893019.png&w=200&h=145",
-    "number": 7,
-    "height": "6\"6'",
-    "off": 70,
-    "def": 70,
-    "threePoint": 69,
-    "reb": 49,
-    "ft": 75,
-    "age": 24
   },
   {
     "name": "Trevon Bluiett",
@@ -908,32 +843,6 @@
     "reb": 54,
     "ft": 71,
     "age": 30
-  },
-  {
-    "name": "Udonis Haslem",
-    "position": 3,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2184.png&w=200&h=145",
-    "number": 40,
-    "height": "6\"8'",
-    "off": 66,
-    "def": 74,
-    "threePoint": 40,
-    "reb": 54,
-    "ft": 74,
-    "age": 39
-  },
-  {
-    "name": "Vince Carter",
-    "position": 2,
-    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/136.png&w=200&h=145",
-    "number": 15,
-    "height": "6\"6'",
-    "off": 75,
-    "def": 71,
-    "threePoint": 85,
-    "reb": 54,
-    "ft": 70,
-    "age": 43
   },
   {
     "name": "Walter Lemon Jr.",
@@ -1066,6 +975,19 @@
     "age": 23
   },
   {
+    "name": "Isaiah Taylor",
+    "position": 0,
+    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "number": 17,
+    "height": "6\"3'",
+    "off": 70,
+    "def": 70,
+    "threePoint": 70,
+    "reb": 50,
+    "ft": 70,
+    "age": 37
+  },
+  {
     "name": "Zach Randolph",
     "position": 3,
     "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
@@ -1194,19 +1116,6 @@
     "reb": 87,
     "ft": 60,
     "age": 33
-  },
-  {
-    "name": "Joe Johnson",
-    "position": 2,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 7,
-    "height": "6\"7'",
-    "off": 75,
-    "def": 75,
-    "threePoint": 69,
-    "reb": 66,
-    "ft": 69,
-    "age": 35
   },
   {
     "name": "Jeff Withey",
@@ -1831,19 +1740,6 @@
     "reb": 50,
     "ft": 70,
     "age": 36
-  },
-  {
-    "name": "Isaiah Taylor",
-    "position": 0,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 17,
-    "height": "6\"3'",
-    "off": 70,
-    "def": 70,
-    "threePoint": 70,
-    "reb": 50,
-    "ft": 70,
-    "age": 37
   },
   {
     "name": "Arron Afflalo",

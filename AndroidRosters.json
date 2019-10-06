@@ -1,7 +1,7 @@
 [
     {
-        "name": "NBA 2019-20",
-        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA2019-20v2.json",
+        "name": "NBA 2019-20 v2 (10/6/19)",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA2019-20v3.json",
         "type": "Roster"
     },
     {
@@ -15,13 +15,7 @@
         "type": "DraftClass"
     },
     {
-        "name": "2019 NCAA Tournament Teams",
-        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NCAA%202018-19%20v2.json",
-        "type": "Roster",
-        "sliderType": "college"
-    },
-    {
-        "name": "2019 NCAA Tournament Teams v2 Test",
+        "name": "2019 NCAA Tournament Teams v2 (10/3/19)",
         "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NCAA%202018-19%20v3.json",
         "type": "Roster",
         "sliderType": "college"

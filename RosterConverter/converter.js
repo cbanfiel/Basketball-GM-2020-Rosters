@@ -1,13 +1,13 @@
 
 
-var teamsData = require('./JSON/Teams.json');
-var playerData = require('./JSON/Players.json');
-// var freeAgents = require('./NBAJSON/FreeAgents.json');
+// var teamsData = require('./JSON/Teams.json');
+// var playerData = require('./JSON/Players.json');
+var freeAgents = require('./NBAJSON/FreeAgents.json');
 
 
-// var teamsData = require('./NBAJSON/Teams.json');
-// var playerData = require('./NBAJSON/Players.json');
-var freeAgents = require('./JSON/FreeAgents.json');
+var teamsData = require('./NBAJSON/Teams.json');
+var playerData = require('./NBAJSON/Players.json');
+// var freeAgents = require('./JSON/FreeAgents.json');
 
 
 var draftData = require('./NBAJSON/DraftData.json');
