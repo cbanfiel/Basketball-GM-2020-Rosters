@@ -38,7 +38,7 @@
     "salary": 459414,
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2595435.png&w=200&h=145",
-    "number": 28,
+    "number": 11,
     "height": "6\"6'",
     "off": 70,
     "def": 68,
@@ -55,7 +55,7 @@
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3213.png&w=200&h=145",
     "number": 42,
-    "height": "6\"10'",
+    "height": "6\"9'",
     "off": 90,
     "def": 82,
     "threePoint": 79,
@@ -70,7 +70,7 @@
     "salary": 2320044,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6429.png&w=200&h=145",
-    "number": 10,
+    "number": 8,
     "height": "6\"6'",
     "off": 77,
     "def": 71,
@@ -93,7 +93,7 @@
     "threePoint": 99,
     "reb": 54,
     "ft": 79,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Alex Len",
@@ -118,7 +118,7 @@
     "salary": 9720900,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4248.png&w=200&h=145",
-    "number": 8,
+    "number": 2,
     "height": "6\"9'",
     "off": 78,
     "def": 76,
@@ -129,7 +129,7 @@
   },
   {
     "name": "Alfonzo McKinnie",
-    "team": 9,
+    "team": 5,
     "years": 1,
     "salary": 674691,
     "position": 2,
@@ -151,7 +151,7 @@
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4067045.png&w=200&h=145",
     "number": 24,
-    "height": "6\"8'",
+    "height": "6\"9'",
     "off": 61,
     "def": 79,
     "threePoint": 40,
@@ -161,7 +161,7 @@
   },
   {
     "name": "Allen Crabbe",
-    "team": 2,
+    "team": 0,
     "years": 1,
     "salary": 9250000,
     "position": 1,
@@ -173,7 +173,7 @@
     "threePoint": 83,
     "reb": 54,
     "ft": 72,
-    "age": 28
+    "age": 27
   },
   {
     "name": "Allonzo Trier",
@@ -189,7 +189,7 @@
     "threePoint": 86,
     "reb": 54,
     "ft": 79,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Andre Drummond",
@@ -212,7 +212,7 @@
     "team": 14,
     "years": 1,
     "salary": 16592592.5,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2386.png&w=200&h=145",
     "number": 9,
     "height": "6\"6'",
@@ -221,7 +221,7 @@
     "threePoint": 74,
     "reb": 58,
     "ft": 57,
-    "age": 36
+    "age": 35
   },
   {
     "name": "Andre Ingram",
@@ -253,7 +253,7 @@
     "threePoint": 76,
     "reb": 76,
     "ft": 60,
-    "age": 26
+    "age": 27
   },
   {
     "name": "Andrew Wiggins",
@@ -269,7 +269,7 @@
     "threePoint": 75,
     "reb": 63,
     "ft": 69,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Anfernee Simons",
@@ -278,8 +278,8 @@
     "salary": 996270,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4351851.png&w=200&h=145",
-    "number": 24,
-    "height": "6\"3'",
+    "number": 1,
+    "height": "6\"4'",
     "off": 71,
     "def": 67,
     "threePoint": 76,
@@ -301,7 +301,7 @@
     "threePoint": 48,
     "reb": 63,
     "ft": 70,
-    "age": 23
+    "age": 22
   },
   {
     "name": "Anthony Davis",
@@ -311,13 +311,13 @@
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6583.png&w=200&h=145",
     "number": 3,
-    "height": "6\"11'",
+    "height": "6\"10'",
     "off": 99,
     "def": 84,
     "threePoint": 73,
     "reb": 94,
     "ft": 78,
-    "age": 27
+    "age": 26
   },
   {
     "name": "Anthony Tolliver",
@@ -365,16 +365,16 @@
     "threePoint": 76,
     "reb": 63,
     "ft": 85,
-    "age": 33
+    "age": 32
   },
   {
     "name": "Austin Rivers",
     "team": 10,
     "years": 2,
     "salary": 2271991,
-    "position": 1,
+    "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6617.png&w=200&h=145",
-    "number": 1,
+    "number": 25,
     "height": "6\"4'",
     "off": 76,
     "def": 76,
@@ -397,7 +397,7 @@
     "threePoint": 77,
     "reb": 54,
     "ft": 85,
-    "age": 29
+    "age": 28
   },
   {
     "name": "Bam Adebayo",
@@ -407,7 +407,7 @@
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066261.png&w=200&h=145",
     "number": 13,
-    "height": "6\"10'",
+    "height": "6\"9'",
     "off": 85,
     "def": 73,
     "threePoint": 47,
@@ -436,7 +436,7 @@
     "team": 22,
     "years": 5,
     "salary": 34000000,
-    "position": 2,
+    "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3907387.png&w=200&h=145",
     "number": 25,
     "height": "6\"10'",
@@ -477,7 +477,7 @@
     "threePoint": 79,
     "reb": 76,
     "ft": 74,
-    "age": 31
+    "age": 30
   },
   {
     "name": "Boban Marjanovic",
@@ -502,21 +502,21 @@
     "salary": 15000000,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3064482.png&w=200&h=145",
-    "number": 5,
+    "number": 1,
     "height": "6\"11'",
     "off": 84,
     "def": 74,
     "threePoint": 86,
     "reb": 76,
     "ft": 78,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Bogdan Bogdanovic",
     "team": 25,
     "years": 1,
     "salary": 8764693,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3037789.png&w=200&h=145",
     "number": 8,
     "height": "6\"6'",
@@ -541,7 +541,7 @@
     "threePoint": 92,
     "reb": 58,
     "ft": 80,
-    "age": 31
+    "age": 30
   },
   {
     "name": "Bonzie Colson",
@@ -564,7 +564,7 @@
     "team": 1,
     "years": 1,
     "salary": 1445697,
-    "position": 1,
+    "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6507.png&w=200&h=145",
     "number": 9,
     "height": "6\"4'",
@@ -614,14 +614,14 @@
     "salary": 15137500,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6448.png&w=200&h=145",
-    "number": 2,
+    "number": 20,
     "height": "6\"3'",
     "off": 73,
     "def": 73,
     "threePoint": 71,
     "reb": 49,
     "ft": 78,
-    "age": 28
+    "age": 27
   },
   {
     "name": "Brook Lopez",
@@ -637,7 +637,7 @@
     "threePoint": 82,
     "reb": 70,
     "ft": 83,
-    "age": 32
+    "age": 31
   },
   {
     "name": "Bruce Brown",
@@ -662,7 +662,7 @@
     "salary": 335105.5,
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3113297.png&w=200&h=145",
-    "number": 20,
+    "number": 5,
     "height": "6\"9'",
     "off": 75,
     "def": 67,
@@ -701,7 +701,7 @@
     "threePoint": 92,
     "reb": 63,
     "ft": 88,
-    "age": 27
+    "age": 26
   },
   {
     "name": "C.J. McCollum",
@@ -717,23 +717,23 @@
     "threePoint": 85,
     "reb": 85,
     "ft": 60,
-    "age": 26
+    "age": 28
   },
   {
     "name": "C.J. Miles",
     "team": 29,
     "years": 1,
     "salary": 8531745.5,
-    "position": 2,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 0,
+    "position": 1,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2778.png&w=200&h=145",
+    "number": 34,
     "height": "6\"6'",
     "off": 73,
     "def": 73,
     "threePoint": 73,
     "reb": 73,
     "ft": 60,
-    "age": 26
+    "age": 32
   },
   {
     "name": "C.J. Williams",
@@ -759,21 +759,21 @@
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3906671.png&w=200&h=145",
     "number": 50,
-    "height": "6\"8'",
+    "height": "6\"9'",
     "off": 65,
     "def": 75,
     "threePoint": 42,
     "reb": 54,
     "ft": 66,
-    "age": 23
+    "age": 22
   },
   {
     "name": "Cameron Reynolds",
-    "team": 17,
+    "team": 16,
     "years": 0,
     "salary": 203695,
-    "position": 2,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "position": 1,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3057240.png&w=200&h=145",
     "number": 13,
     "height": "6\"8'",
     "off": 70,
@@ -781,7 +781,7 @@
     "threePoint": 89,
     "reb": 49,
     "ft": 88,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Caris LeVert",
@@ -791,7 +791,7 @@
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2991043.png&w=200&h=145",
     "number": 22,
-    "height": "6\"7'",
+    "height": "6\"6'",
     "off": 83,
     "def": 73,
     "threePoint": 69,
@@ -804,23 +804,23 @@
     "team": 5,
     "years": 1,
     "salary": 2841071.5,
-    "position": 1,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3893016.png&w=200&h=145",
-    "number": 6,
+    "number": 16,
     "height": "6\"8'",
     "off": 81,
     "def": 67,
     "threePoint": 77,
     "reb": 63,
     "ft": 77,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Chandler Hutchison",
     "team": 4,
     "years": 3,
     "salary": 1080960,
-    "position": 1,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3149010.png&w=200&h=145",
     "number": 15,
     "height": "6\"7'",
@@ -838,14 +838,14 @@
     "salary": 24604884.5,
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6466.png&w=200&h=145",
-    "number": 25,
+    "number": 31,
     "height": "6\"10'",
     "off": 74,
     "def": 76,
     "threePoint": 69,
     "reb": 54,
     "ft": 87,
-    "age": 31
+    "age": 30
   },
   {
     "name": "Chimezie Metu",
@@ -861,7 +861,7 @@
     "threePoint": 46,
     "reb": 45,
     "ft": 76,
-    "age": 23
+    "age": 22
   },
   {
     "name": "Chris Boucher",
@@ -877,23 +877,23 @@
     "threePoint": 72,
     "reb": 49,
     "ft": 86,
-    "age": 27
+    "age": 26
   },
   {
     "name": "Chris Chiozza",
-    "team": 10,
+    "team": 29,
     "years": 0,
     "salary": 137376,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3137795.png&w=200&h=145",
-    "number": 33,
+    "number": 9,
     "height": "6\"0'",
     "off": 60,
     "def": 74,
     "threePoint": 87,
     "reb": 45,
     "ft": 60,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Chris Paul",
@@ -948,7 +948,7 @@
     "team": 3,
     "years": 2,
     "salary": 14471910,
-    "position": 4,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2579258.png&w=200&h=145",
     "number": 40,
     "height": "7\"0'",
@@ -973,7 +973,7 @@
     "threePoint": 87,
     "reb": 54,
     "ft": 83,
-    "age": 21
+    "age": 20
   },
   {
     "name": "Cory Joseph",
@@ -982,7 +982,7 @@
     "salary": 12400000,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6446.png&w=200&h=145",
-    "number": 6,
+    "number": 9,
     "height": "6\"3'",
     "off": 75,
     "def": 73,
@@ -998,7 +998,7 @@
     "salary": 12506725,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3445.png&w=200&h=145",
-    "number": 5,
+    "number": 1,
     "height": "6\"5'",
     "off": 71,
     "def": 73,
@@ -1012,10 +1012,10 @@
     "team": 4,
     "years": 2,
     "salary": 8052166.667,
-    "position": 4,
+    "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3113587.png&w=200&h=145",
     "number": 6,
-    "height": "6\"9'",
+    "height": "6\"10'",
     "off": 76,
     "def": 70,
     "threePoint": 40,
@@ -1037,7 +1037,7 @@
     "threePoint": 91,
     "reb": 54,
     "ft": 86,
-    "age": 32
+    "age": 31
   },
   {
     "name": "D.J. Wilson",
@@ -1053,16 +1053,16 @@
     "threePoint": 79,
     "reb": 63,
     "ft": 54,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Damian Jones",
-    "team": 9,
+    "team": 0,
     "years": 1,
     "salary": 1925004,
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3064559.png&w=200&h=145",
-    "number": 15,
+    "number": 30,
     "height": "7\"0'",
     "off": 85,
     "def": 65,
@@ -1095,7 +1095,7 @@
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2991149.png&w=200&h=145",
     "number": 21,
-    "height": "6\"5'",
+    "height": "6\"6'",
     "off": 79,
     "def": 73,
     "threePoint": 81,
@@ -1110,14 +1110,14 @@
     "salary": 29250000,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3136776.png&w=200&h=145",
-    "number": 1,
+    "number": 0,
     "height": "6\"5'",
     "off": 93,
     "def": 81,
     "threePoint": 81,
     "reb": 58,
     "ft": 77,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Daniel Theis",
@@ -1127,13 +1127,13 @@
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2451037.png&w=200&h=145",
     "number": 27,
-    "height": "6\"9'",
+    "height": "6\"8'",
     "off": 80,
     "def": 72,
     "threePoint": 85,
     "reb": 54,
     "ft": 73,
-    "age": 28
+    "age": 27
   },
   {
     "name": "Danilo Gallinari",
@@ -1206,14 +1206,14 @@
     "salary": 3004413,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3032978.png&w=200&h=145",
-    "number": 9,
+    "number": 20,
     "height": "6\"10'",
     "off": 80,
     "def": 74,
     "threePoint": 80,
     "reb": 67,
     "ft": 87,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Darius Miller",
@@ -1229,30 +1229,30 @@
     "threePoint": 80,
     "reb": 49,
     "ft": 78,
-    "age": 30
+    "age": 29
   },
   {
     "name": "Daryl Macon",
-    "team": 6,
+    "team": 15,
     "years": 0,
     "salary": 1000000,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066243.png&w=200&h=145",
-    "number": 3,
-    "height": "6\"3'",
+    "number": 15,
+    "height": "6\"2'",
     "off": 67,
     "def": 65,
     "threePoint": 98,
     "reb": 49,
     "ft": 56,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Davis Bertans",
     "team": 29,
     "years": 1,
     "salary": 7000000,
-    "position": 3,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6426.png&w=200&h=145",
     "number": 42,
     "height": "6\"10'",
@@ -1261,7 +1261,7 @@
     "threePoint": 93,
     "reb": 58,
     "ft": 87,
-    "age": 27
+    "age": 26
   },
   {
     "name": "Davon Reed",
@@ -1293,7 +1293,7 @@
     "threePoint": 81,
     "reb": 58,
     "ft": 72,
-    "age": 22
+    "age": 21
   },
   {
     "name": "Deandre Ayton",
@@ -1316,8 +1316,8 @@
     "team": 0,
     "years": 1,
     "salary": 2119311,
-    "position": 2,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "position": 1,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3062667.png&w=200&h=145",
     "number": 95,
     "height": "6\"6'",
     "off": 76,
@@ -1348,10 +1348,10 @@
     "team": 14,
     "years": 1,
     "salary": 1182926,
-    "position": 0,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 14,
-    "height": "6\"3'",
+    "position": 1,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066436.png&w=200&h=145",
+    "number": 0,
+    "height": "6\"4'",
     "off": 71,
     "def": 71,
     "threePoint": 68,
@@ -1373,7 +1373,7 @@
     "threePoint": 78,
     "reb": 78,
     "ft": 60,
-    "age": 26
+    "age": 23
   },
   {
     "name": "Delon Wright",
@@ -1414,7 +1414,7 @@
     "salary": 3500000,
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4258.png&w=200&h=145",
-    "number": 0,
+    "number": 15,
     "height": "6\"11'",
     "off": 90,
     "def": 82,
@@ -1430,7 +1430,7 @@
     "salary": 6883333,
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3970.png&w=200&h=145",
-    "number": 9,
+    "number": 77,
     "height": "6\"8'",
     "off": 79,
     "def": 75,
@@ -1477,22 +1477,22 @@
     "years": 2,
     "salary": 2761200,
     "position": 0,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 1,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065697.png&w=200&h=145",
+    "number": 5,
     "height": "6\"3'",
     "off": 83,
     "def": 71,
     "threePoint": 71,
     "reb": 54,
     "ft": 63,
-    "age": 22
+    "age": 21
   },
   {
     "name": "Denzel Valentine",
     "team": 4,
     "years": 1,
     "salary": 2829084.5,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2999549.png&w=200&h=145",
     "number": 45,
     "height": "6\"6'",
@@ -1501,7 +1501,7 @@
     "threePoint": 74,
     "reb": 74,
     "ft": 60,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Deonte Burton",
@@ -1517,7 +1517,7 @@
     "threePoint": 66,
     "reb": 45,
     "ft": 66,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Derrick Favors",
@@ -1526,7 +1526,7 @@
     "salary": 8000000,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4257.png&w=200&h=145",
-    "number": 15,
+    "number": 22,
     "height": "6\"10'",
     "off": 89,
     "def": 73,
@@ -1541,15 +1541,15 @@
     "years": 0,
     "salary": 1000000,
     "position": 2,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3936099.png&w=200&h=145",
     "number": 5,
-    "height": "6\"7'",
+    "height": "6\"6'",
     "off": 78,
     "def": 72,
     "threePoint": 69,
     "reb": 58,
     "ft": 60,
-    "age": 23
+    "age": 22
   },
   {
     "name": "Derrick Rose",
@@ -1575,7 +1575,7 @@
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3078576.png&w=200&h=145",
     "number": 4,
-    "height": "6\"5'",
+    "height": "6\"4'",
     "off": 82,
     "def": 76,
     "threePoint": 75,
@@ -1597,7 +1597,7 @@
     "threePoint": 72,
     "reb": 58,
     "ft": 86,
-    "age": 23
+    "age": 22
   },
   {
     "name": "Devonte Graham",
@@ -1605,7 +1605,7 @@
     "years": 2,
     "salary": 801772,
     "position": 0,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3133601.png&w=200&h=145",
     "number": 4,
     "height": "6\"2'",
     "off": 68,
@@ -1613,7 +1613,7 @@
     "threePoint": 63,
     "reb": 45,
     "ft": 75,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Dewayne Dedmon",
@@ -1622,7 +1622,7 @@
     "salary": 13333333,
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2580913.png&w=200&h=145",
-    "number": 3,
+    "number": 13,
     "height": "7\"0'",
     "off": 82,
     "def": 72,
@@ -1652,7 +1652,7 @@
     "team": 14,
     "years": 1,
     "salary": 689121,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3155526.png&w=200&h=145",
     "number": 24,
     "height": "6\"6'",
@@ -1661,7 +1661,7 @@
     "threePoint": 82,
     "reb": 49,
     "ft": 72,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Dion Waiters",
@@ -1671,13 +1671,13 @@
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6628.png&w=200&h=145",
     "number": 11,
-    "height": "6\"4'",
+    "height": "6\"3'",
     "off": 80,
     "def": 72,
     "threePoint": 82,
     "reb": 54,
     "ft": 49,
-    "age": 28
+    "age": 27
   },
   {
     "name": "Domantas Sabonis",
@@ -1718,14 +1718,14 @@
     "salary": 1346700,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3934673.png&w=200&h=145",
-    "number": 9,
-    "height": "6\"5'",
+    "number": 0,
+    "height": "6\"4'",
     "off": 71,
     "def": 69,
     "threePoint": 60,
     "reb": 49,
     "ft": 74,
-    "age": 23
+    "age": 22
   },
   {
     "name": "Donte Grantham",
@@ -1773,7 +1773,7 @@
     "threePoint": 89,
     "reb": 45,
     "ft": 83,
-    "age": 28
+    "age": 27
   },
   {
     "name": "Draymond Green",
@@ -1789,7 +1789,7 @@
     "threePoint": 72,
     "reb": 75,
     "ft": 68,
-    "age": 30
+    "age": 29
   },
   {
     "name": "Drew Eubanks",
@@ -1797,7 +1797,7 @@
     "years": 0,
     "salary": 1000000,
     "position": 3,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3914285.png&w=200&h=145",
     "number": 14,
     "height": "6\"10'",
     "off": 74,
@@ -1805,7 +1805,7 @@
     "threePoint": 43,
     "reb": 49,
     "ft": 84,
-    "age": 23
+    "age": 22
   },
   {
     "name": "Dusty Hannahs",
@@ -1828,7 +1828,7 @@
     "team": 3,
     "years": 1,
     "salary": 689121,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3907821.png&w=200&h=145",
     "number": 7,
     "height": "6\"7'",
@@ -1846,14 +1846,14 @@
     "salary": 2564753,
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2384.png&w=200&h=145",
-    "number": 21,
+    "number": 39,
     "height": "6\"11'",
     "off": 90,
     "def": 70,
     "threePoint": 41,
     "reb": 81,
     "ft": 59,
-    "age": 34
+    "age": 33
   },
   {
     "name": "Dwight Powell",
@@ -1876,9 +1876,9 @@
     "team": 2,
     "years": 3,
     "salary": 885960,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4348696.png&w=200&h=145",
-    "number": 30,
+    "number": 13,
     "height": "6\"9'",
     "off": 69,
     "def": 73,
@@ -1908,16 +1908,16 @@
     "team": 11,
     "years": 2,
     "salary": 2080000,
-    "position": 1,
+    "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3136485.png&w=200&h=145",
     "number": 5,
-    "height": "6\"5'",
+    "height": "6\"6'",
     "off": 66,
     "def": 74,
     "threePoint": 59,
     "reb": 45,
     "ft": 62,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Elfrid Payton",
@@ -1926,30 +1926,30 @@
     "salary": 8000000,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2583639.png&w=200&h=145",
-    "number": 4,
+    "number": 6,
     "height": "6\"4'",
     "off": 80,
     "def": 74,
     "threePoint": 70,
     "reb": 63,
     "ft": 73,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Elie Okobo",
     "team": 23,
     "years": 3,
     "salary": 663829,
-    "position": 0,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4230550.png&w=200&h=145",
     "number": 2,
-    "height": "6\"2'",
+    "height": "6\"3'",
     "off": 71,
     "def": 67,
     "threePoint": 66,
     "reb": 49,
     "ft": 78,
-    "age": 22
+    "age": 21
   },
   {
     "name": "Emmanuel Mudiay",
@@ -1958,14 +1958,14 @@
     "salary": 1737145,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3892818.png&w=200&h=145",
-    "number": 1,
+    "number": 8,
     "height": "6\"5'",
     "off": 85,
     "def": 73,
     "threePoint": 73,
     "reb": 54,
     "ft": 76,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Enes Kanter",
@@ -1974,7 +1974,7 @@
     "salary": 4886175,
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6447.png&w=200&h=145",
-    "number": 0,
+    "number": 11,
     "height": "6\"11'",
     "off": 89,
     "def": 73,
@@ -1997,7 +1997,7 @@
     "threePoint": 73,
     "reb": 63,
     "ft": 74,
-    "age": 30
+    "age": 29
   },
   {
     "name": "Eric Gordon",
@@ -2013,7 +2013,7 @@
     "threePoint": 79,
     "reb": 49,
     "ft": 77,
-    "age": 31
+    "age": 30
   },
   {
     "name": "Ersan Ilyasova",
@@ -2022,7 +2022,7 @@
     "salary": 4666666.667,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2767.png&w=200&h=145",
-    "number": 77,
+    "number": 7,
     "height": "6\"10'",
     "off": 76,
     "def": 74,
@@ -2037,7 +2037,7 @@
     "years": 1,
     "salary": 8736806.5,
     "position": 1,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6460.png&w=200&h=145",
     "number": 55,
     "height": "6\"4'",
     "off": 82,
@@ -2045,7 +2045,7 @@
     "threePoint": 93,
     "reb": 49,
     "ft": 75,
-    "age": 31
+    "age": 30
   },
   {
     "name": "Evan Fournier",
@@ -2061,14 +2061,14 @@
     "threePoint": 75,
     "reb": 54,
     "ft": 80,
-    "age": 27
+    "age": 26
   },
   {
     "name": "Evan Turner",
     "team": 0,
     "years": 1,
     "salary": 18237704.5,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4239.png&w=200&h=145",
     "number": 1,
     "height": "6\"7'",
@@ -2077,7 +2077,7 @@
     "threePoint": 49,
     "reb": 63,
     "ft": 70,
-    "age": 31
+    "age": 30
   },
   {
     "name": "Frank Jackson",
@@ -2087,7 +2087,7 @@
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065651.png&w=200&h=145",
     "number": 15,
-    "height": "6\"4'",
+    "height": "6\"3'",
     "off": 75,
     "def": 65,
     "threePoint": 70,
@@ -2102,14 +2102,14 @@
     "salary": 4767000,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2579294.png&w=200&h=145",
-    "number": 44,
+    "number": 8,
     "height": "7\"0'",
     "off": 79,
     "def": 73,
     "threePoint": 79,
     "reb": 58,
     "ft": 73,
-    "age": 27
+    "age": 26
   },
   {
     "name": "Frank Mason",
@@ -2135,7 +2135,7 @@
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4230547.png&w=200&h=145",
     "number": 11,
-    "height": "6\"5'",
+    "height": "6\"6'",
     "off": 70,
     "def": 74,
     "threePoint": 64,
@@ -2157,7 +2157,7 @@
     "threePoint": 83,
     "reb": 54,
     "ft": 83,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Garrett Temple",
@@ -2167,7 +2167,7 @@
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4023.png&w=200&h=145",
     "number": 17,
-    "height": "6\"6'",
+    "height": "6\"5'",
     "off": 76,
     "def": 70,
     "threePoint": 75,
@@ -2189,7 +2189,7 @@
     "threePoint": 66,
     "reb": 49,
     "ft": 99,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Gary Harris",
@@ -2213,15 +2213,15 @@
     "years": 0,
     "salary": 1000000,
     "position": 1,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 9,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4277843.png&w=200&h=145",
+    "number": 2,
     "height": "6\"6'",
     "off": 65,
     "def": 73,
     "threePoint": 55,
     "reb": 45,
     "ft": 42,
-    "age": 21
+    "age": 20
   },
   {
     "name": "George Hill",
@@ -2260,7 +2260,7 @@
     "team": 10,
     "years": 1,
     "salary": 2393887,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2761.png&w=200&h=145",
     "number": 14,
     "height": "6\"7'",
@@ -2269,14 +2269,14 @@
     "threePoint": 78,
     "reb": 54,
     "ft": 83,
-    "age": 34
+    "age": 33
   },
   {
     "name": "Giannis Antetokounmpo",
     "team": 16,
     "years": 2,
     "salary": 25842697,
-    "position": 2,
+    "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3032977.png&w=200&h=145",
     "number": 34,
     "height": "6\"11'",
@@ -2285,7 +2285,7 @@
     "threePoint": 58,
     "reb": 99,
     "ft": 72,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Glenn Robinson III",
@@ -2301,7 +2301,7 @@
     "threePoint": 65,
     "reb": 49,
     "ft": 79,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Goran Dragic",
@@ -2333,7 +2333,7 @@
     "threePoint": 74,
     "reb": 63,
     "ft": 82,
-    "age": 30
+    "age": 29
   },
   {
     "name": "Gorgui Dieng",
@@ -2349,7 +2349,7 @@
     "threePoint": 75,
     "reb": 58,
     "ft": 82,
-    "age": 30
+    "age": 29
   },
   {
     "name": "Grayson Allen",
@@ -2358,7 +2358,7 @@
     "salary": 1125930,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3135045.png&w=200&h=145",
-    "number": 24,
+    "number": 3,
     "height": "6\"5'",
     "off": 71,
     "def": 67,
@@ -2374,8 +2374,8 @@
     "salary": 751772,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4080610.png&w=200&h=145",
-    "number": 22,
-    "height": "6\"6'",
+    "number": 6,
+    "height": "6\"5'",
     "off": 72,
     "def": 68,
     "threePoint": 42,
@@ -2423,7 +2423,7 @@
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4262.png&w=200&h=145",
     "number": 21,
-    "height": "7\"0'",
+    "height": "7\"1'",
     "off": 89,
     "def": 77,
     "threePoint": 45,
@@ -2461,23 +2461,23 @@
     "threePoint": 48,
     "reb": 58,
     "ft": 68,
-    "age": 33
+    "age": 32
   },
   {
     "name": "Isaac Bonga",
     "team": 29,
     "years": 2,
     "salary": 887953.6667,
-    "position": 2,
+    "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4348697.png&w=200&h=145",
     "number": 17,
-    "height": "6\"9'",
+    "height": "6\"8'",
     "off": 56,
     "def": 80,
     "threePoint": 40,
     "reb": 45,
     "ft": 59,
-    "age": 20
+    "age": 19
   },
   {
     "name": "Isaiah Briscoe",
@@ -2534,14 +2534,14 @@
     "salary": 2320044,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6472.png&w=200&h=145",
-    "number": 22,
+    "number": 4,
     "height": "5\"9'",
     "off": 73,
     "def": 79,
     "threePoint": 63,
     "reb": 45,
     "ft": 62,
-    "age": 31
+    "age": 30
   },
   {
     "name": "Isaiah Whitehead",
@@ -2605,7 +2605,7 @@
     "threePoint": 49,
     "reb": 67,
     "ft": 79,
-    "age": 23
+    "age": 22
   },
   {
     "name": "J.J. Barea",
@@ -2629,15 +2629,15 @@
     "years": 2,
     "salary": 13250000,
     "position": 1,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 17,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3024.png&w=200&h=145",
+    "number": 4,
     "height": "6\"4'",
     "off": 80,
     "def": 80,
     "threePoint": 80,
     "reb": 80,
     "ft": 60,
-    "age": 26
+    "age": 35
   },
   {
     "name": "J.P. Macura",
@@ -2678,21 +2678,21 @@
     "salary": 6500000,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3056600.png&w=200&h=145",
-    "number": 2,
+    "number": 5,
     "height": "6\"8'",
     "off": 87,
     "def": 71,
     "threePoint": 70,
     "reb": 72,
     "ft": 70,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Jacob Evans",
     "team": 9,
     "years": 3,
     "salary": 892530,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3934621.png&w=200&h=145",
     "number": 10,
     "height": "6\"6'",
@@ -2708,7 +2708,7 @@
     "team": 14,
     "years": 1,
     "salary": 7560679,
-    "position": 2,
+    "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6581.png&w=200&h=145",
     "number": 99,
     "height": "6\"6'",
@@ -2733,23 +2733,23 @@
     "threePoint": 49,
     "reb": 63,
     "ft": 65,
-    "age": 24
+    "age": 23
   },
   {
     "name": "JaKarr Sampson",
     "team": 11,
     "years": 1,
     "salary": 1737145,
-    "position": 3,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 41,
+    "position": 2,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2608891.png&w=200&h=145",
+    "number": 14,
     "height": "6\"9'",
     "off": 81,
     "def": 57,
     "threePoint": 78,
     "reb": 76,
     "ft": 80,
-    "age": 27
+    "age": 26
   },
   {
     "name": "Jake Layman",
@@ -2765,7 +2765,7 @@
     "threePoint": 72,
     "reb": 54,
     "ft": 69,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Jakob Poeltl",
@@ -2791,7 +2791,7 @@
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3934672.png&w=200&h=145",
     "number": 13,
-    "height": "6\"2'",
+    "height": "6\"3'",
     "off": 80,
     "def": 72,
     "threePoint": 77,
@@ -2813,7 +2813,7 @@
     "threePoint": 80,
     "reb": 58,
     "ft": 84,
-    "age": 23
+    "age": 22
   },
   {
     "name": "James Ennis",
@@ -2836,7 +2836,7 @@
     "team": 10,
     "years": 4,
     "salary": 30580770.8,
-    "position": 1,
+    "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3992.png&w=200&h=145",
     "number": 13,
     "height": "6\"5'",
@@ -2852,16 +2852,16 @@
     "team": 15,
     "years": 2,
     "salary": 10000366.67,
-    "position": 2,
+    "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3999.png&w=200&h=145",
     "number": 16,
-    "height": "6\"9'",
+    "height": "6\"7'",
     "off": 77,
     "def": 73,
     "threePoint": 74,
     "reb": 54,
     "ft": 70,
-    "age": 33
+    "age": 32
   },
   {
     "name": "JaMychal Green",
@@ -2870,7 +2870,7 @@
     "salary": 4886175,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2327577.png&w=200&h=145",
-    "number": 0,
+    "number": 4,
     "height": "6\"9'",
     "off": 81,
     "def": 75,
@@ -2884,9 +2884,9 @@
     "team": 13,
     "years": 1,
     "salary": 2564753,
-    "position": 3,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3201.png&w=200&h=145",
-    "number": 6,
+    "number": 10,
     "height": "6\"7'",
     "off": 72,
     "def": 70,
@@ -2917,7 +2917,7 @@
     "years": 0,
     "salary": 1000000,
     "position": 3,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4277961.png&w=200&h=145",
     "number": 13,
     "height": "6\"11'",
     "off": 87,
@@ -2948,7 +2948,7 @@
     "team": 7,
     "years": 2,
     "salary": 751772,
-    "position": 2,
+    "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278077.png&w=200&h=145",
     "number": 8,
     "height": "6\"9'",
@@ -2957,7 +2957,7 @@
     "threePoint": 43,
     "reb": 45,
     "ft": 59,
-    "age": 21
+    "age": 20
   },
   {
     "name": "Jarrett Allen",
@@ -2967,7 +2967,7 @@
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066328.png&w=200&h=145",
     "number": 31,
-    "height": "6\"10'",
+    "height": "6\"11'",
     "off": 88,
     "def": 74,
     "threePoint": 40,
@@ -2989,7 +2989,7 @@
     "threePoint": 46,
     "reb": 76,
     "ft": 62,
-    "age": 32
+    "age": 31
   },
   {
     "name": "Jawun Evans",
@@ -3021,7 +3021,7 @@
     "threePoint": 76,
     "reb": 58,
     "ft": 65,
-    "age": 23
+    "age": 22
   },
   {
     "name": "Jayson Tatum",
@@ -3037,7 +3037,7 @@
     "threePoint": 82,
     "reb": 67,
     "ft": 85,
-    "age": 22
+    "age": 21
   },
   {
     "name": "Jeff Green",
@@ -3046,7 +3046,7 @@
     "salary": 2564753,
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3209.png&w=200&h=145",
-    "number": 32,
+    "number": 22,
     "height": "6\"9'",
     "off": 83,
     "def": 71,
@@ -3063,7 +3063,7 @@
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4015.png&w=200&h=145",
     "number": 0,
-    "height": "6\"2'",
+    "height": "6\"4'",
     "off": 81,
     "def": 75,
     "threePoint": 74,
@@ -3092,7 +3092,7 @@
     "team": 7,
     "years": 2,
     "salary": 6000000,
-    "position": 3,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2991070.png&w=200&h=145",
     "number": 9,
     "height": "6\"9'",
@@ -3101,7 +3101,7 @@
     "threePoint": 85,
     "reb": 63,
     "ft": 70,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Jeremy Lamb",
@@ -3110,7 +3110,7 @@
     "salary": 10500000,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6603.png&w=200&h=145",
-    "number": 3,
+    "number": 26,
     "height": "6\"5'",
     "off": 85,
     "def": 73,
@@ -3126,14 +3126,14 @@
     "salary": 1653480,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3943606.png&w=200&h=145",
-    "number": 10,
+    "number": 1,
     "height": "6\"5'",
     "off": 69,
     "def": 71,
     "threePoint": 70,
     "reb": 45,
     "ft": 66,
-    "age": 23
+    "age": 22
   },
   {
     "name": "Jevon Carter",
@@ -3142,7 +3142,7 @@
     "salary": 1127658,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3133635.png&w=200&h=145",
-    "number": 3,
+    "number": 4,
     "height": "6\"2'",
     "off": 66,
     "def": 74,
@@ -3156,9 +3156,9 @@
     "team": 15,
     "years": 4,
     "salary": 35197650,
-    "position": 1,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6430.png&w=200&h=145",
-    "number": 23,
+    "number": 22,
     "height": "6\"7'",
     "off": 93,
     "def": 83,
@@ -3229,7 +3229,7 @@
     "threePoint": 67,
     "reb": 99,
     "ft": 79,
-    "age": 26
+    "age": 25
   },
   {
     "name": "John Collins",
@@ -3252,7 +3252,7 @@
     "team": 5,
     "years": 1,
     "salary": 10529931,
-    "position": 4,
+    "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6592.png&w=200&h=145",
     "number": 31,
     "height": "6\"11'",
@@ -3261,7 +3261,7 @@
     "threePoint": 78,
     "reb": 63,
     "ft": 59,
-    "age": 29
+    "age": 28
   },
   {
     "name": "John Wall",
@@ -3287,13 +3287,13 @@
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3155533.png&w=200&h=145",
     "number": 43,
-    "height": "6\"10'",
+    "height": "6\"8'",
     "off": 75,
     "def": 67,
     "threePoint": 78,
     "reb": 58,
     "ft": 47,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Jonas Valanciunas",
@@ -3316,7 +3316,7 @@
     "team": 21,
     "years": 2,
     "salary": 3591840,
-    "position": 2,
+    "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065654.png&w=200&h=145",
     "number": 1,
     "height": "6\"10'",
@@ -3334,14 +3334,14 @@
     "salary": 1620564,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3064427.png&w=200&h=145",
-    "number": 2,
-    "height": "6\"8'",
+    "number": 7,
+    "height": "6\"9'",
     "off": 75,
     "def": 75,
     "threePoint": 49,
     "reb": 54,
     "ft": 60,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Jordan Clarkson",
@@ -3389,7 +3389,7 @@
     "threePoint": 64,
     "reb": 49,
     "ft": 79,
-    "age": 29
+    "age": 28
   },
   {
     "name": "Josh Hart",
@@ -3405,14 +3405,14 @@
     "threePoint": 74,
     "reb": 58,
     "ft": 68,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Josh Jackson",
     "team": 14,
     "years": 2,
     "salary": 4367000,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066297.png&w=200&h=145",
     "number": 20,
     "height": "6\"8'",
@@ -3421,7 +3421,7 @@
     "threePoint": 72,
     "reb": 58,
     "ft": 66,
-    "age": 23
+    "age": 22
   },
   {
     "name": "Josh Okogie",
@@ -3444,10 +3444,10 @@
     "team": 22,
     "years": 3,
     "salary": 7566800,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2581190.png&w=200&h=145",
     "number": 0,
-    "height": "6\"6'",
+    "height": "6\"5'",
     "off": 86,
     "def": 74,
     "threePoint": 78,
@@ -3485,7 +3485,7 @@
     "threePoint": 75,
     "reb": 75,
     "ft": 60,
-    "age": 26
+    "age": 24
   },
   {
     "name": "Julian Washburn",
@@ -3508,7 +3508,7 @@
     "team": 19,
     "years": 3,
     "salary": 20700000,
-    "position": 3,
+    "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3064514.png&w=200&h=145",
     "number": 30,
     "height": "6\"9'",
@@ -3517,7 +3517,7 @@
     "threePoint": 76,
     "reb": 81,
     "ft": 72,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Justin Bibbs",
@@ -3542,23 +3542,23 @@
     "salary": 2029600,
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3138156.png&w=200&h=145",
-    "number": 25,
+    "number": 44,
     "height": "6\"8'",
     "off": 75,
     "def": 69,
     "threePoint": 78,
     "reb": 54,
     "ft": 78,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Justin Patton",
-    "team": 22,
+    "team": 20,
     "years": 0,
     "salary": 2667600,
     "position": 4,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 24,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3912332.png&w=200&h=145",
+    "number": 13,
     "height": "7\"0'",
     "off": 64,
     "def": 76,
@@ -3575,13 +3575,13 @@
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3135047.png&w=200&h=145",
     "number": 20,
-    "height": "6\"7'",
+    "height": "6\"6'",
     "off": 82,
     "def": 74,
     "threePoint": 82,
     "reb": 63,
     "ft": 62,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Jusuf Nurkic",
@@ -3606,14 +3606,14 @@
     "salary": 1000000,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3134880.png&w=200&h=145",
-    "number": 45,
+    "number": 0,
     "height": "6\"3'",
     "off": 80,
     "def": 68,
     "threePoint": 99,
     "reb": 54,
     "ft": 77,
-    "age": 27
+    "age": 26
   },
   {
     "name": "Kalin Lucas",
@@ -3645,7 +3645,7 @@
     "threePoint": 87,
     "reb": 94,
     "ft": 83,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Kawhi Leonard",
@@ -3670,30 +3670,30 @@
     "salary": 751772,
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3136779.png&w=200&h=145",
-    "number": 33,
+    "number": 31,
     "height": "6\"9'",
     "off": 71,
     "def": 67,
     "threePoint": 57,
     "reb": 54,
     "ft": 63,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Kelly Olynyk",
     "team": 15,
     "years": 2,
     "salary": 7935137.333,
-    "position": 4,
+    "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2489663.png&w=200&h=145",
     "number": 9,
-    "height": "7\"0'",
+    "height": "6\"11'",
     "off": 81,
     "def": 77,
     "threePoint": 78,
     "reb": 63,
     "ft": 81,
-    "age": 29
+    "age": 28
   },
   {
     "name": "Kelly Oubre Jr.",
@@ -3701,15 +3701,15 @@
     "years": 2,
     "salary": 15000000,
     "position": 2,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 12,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3133603.png&w=200&h=145",
+    "number": 3,
     "height": "6\"7'",
     "off": 85,
     "def": 73,
     "threePoint": 71,
     "reb": 63,
     "ft": 77,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Kemba Walker",
@@ -3732,8 +3732,8 @@
     "team": 18,
     "years": 1,
     "salary": 419232,
-    "position": 2,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "position": 1,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3133626.png&w=200&h=145",
     "number": 34,
     "height": "6\"7'",
     "off": 71,
@@ -3741,14 +3741,14 @@
     "threePoint": 74,
     "reb": 63,
     "ft": 67,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Kent Bazemore",
     "team": 24,
     "years": 1,
     "salary": 9044943.5,
-    "position": 1,
+    "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6637.png&w=200&h=145",
     "number": 24,
     "height": "6\"5'",
@@ -3773,7 +3773,7 @@
     "threePoint": 76,
     "reb": 54,
     "ft": 86,
-    "age": 27
+    "age": 26
   },
   {
     "name": "Kevin Durant",
@@ -3783,7 +3783,7 @@
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3202.png&w=200&h=145",
     "number": 7,
-    "height": "6\"9'",
+    "height": "6\"10'",
     "off": 99,
     "def": 85,
     "threePoint": 78,
@@ -3798,7 +3798,7 @@
     "salary": 1221810,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066372.png&w=200&h=145",
-    "number": 4,
+    "number": 3,
     "height": "6\"7'",
     "off": 78,
     "def": 70,
@@ -3853,7 +3853,7 @@
     "threePoint": 46,
     "reb": 63,
     "ft": 61,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Khem Birch",
@@ -3876,7 +3876,7 @@
     "team": 16,
     "years": 5,
     "salary": 35500000,
-    "position": 1,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6609.png&w=200&h=145",
     "number": 22,
     "height": "6\"8'",
@@ -3917,11 +3917,11 @@
     "threePoint": 87,
     "reb": 58,
     "ft": 81,
-    "age": 30
+    "age": 29
   },
   {
     "name": "Kostas Antetokounmpo",
-    "team": 6,
+    "team": 13,
     "years": 0,
     "salary": 1000000,
     "position": 3,
@@ -3933,7 +3933,7 @@
     "threePoint": 41,
     "reb": 45,
     "ft": 49,
-    "age": 22
+    "age": 21
   },
   {
     "name": "Kris Dunn",
@@ -3949,7 +3949,7 @@
     "threePoint": 78,
     "reb": 58,
     "ft": 79,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Kristaps Porzingis",
@@ -3965,7 +3965,7 @@
     "threePoint": 88,
     "reb": 88,
     "ft": 60,
-    "age": 26
+    "age": 24
   },
   {
     "name": "Kyle Anderson",
@@ -4007,29 +4007,29 @@
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3012.png&w=200&h=145",
     "number": 7,
-    "height": "6\"0'",
+    "height": "6\"1'",
     "off": 86,
     "def": 85,
     "threePoint": 78,
     "reb": 63,
     "ft": 82,
-    "age": 34
+    "age": 33
   },
   {
     "name": "Kyle OQuinn",
-    "team": 11,
+    "team": 22,
     "years": 0,
     "salary": 4449000,
     "position": 4,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 10,
-    "height": "6\"10'",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6615.png&w=200&h=145",
+    "number": 9,
+    "height": "6\"9'",
     "off": 75,
     "def": 71,
     "threePoint": 40,
     "reb": 54,
     "ft": 80,
-    "age": 30
+    "age": 29
   },
   {
     "name": "Kyrie Irving",
@@ -4039,20 +4039,20 @@
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6442.png&w=200&h=145",
     "number": 11,
-    "height": "6\"3'",
+    "height": "6\"2'",
     "off": 99,
     "def": 84,
     "threePoint": 87,
     "reb": 63,
     "ft": 86,
-    "age": 28
+    "age": 27
   },
   {
     "name": "LaMarcus Aldridge",
     "team": 26,
     "years": 2,
     "salary": 18449005,
-    "position": 3,
+    "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2983.png&w=200&h=145",
     "number": 12,
     "height": "6\"11'",
@@ -4070,14 +4070,14 @@
     "salary": 924690,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3914044.png&w=200&h=145",
-    "number": 1,
-    "height": "6\"6'",
+    "number": 20,
+    "height": "6\"5'",
     "off": 78,
     "def": 74,
     "threePoint": 91,
     "reb": 49,
     "ft": 80,
-    "age": 23
+    "age": 22
   },
   {
     "name": "Langston Galloway",
@@ -4093,7 +4093,7 @@
     "threePoint": 78,
     "reb": 49,
     "ft": 83,
-    "age": 28
+    "age": 27
   },
   {
     "name": "Larry Nance Jr.",
@@ -4101,7 +4101,7 @@
     "years": 0,
     "salary": 1000000,
     "position": 3,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2580365.png&w=200&h=145",
     "number": 22,
     "height": "6\"9'",
     "off": 83,
@@ -4109,7 +4109,7 @@
     "threePoint": 74,
     "reb": 76,
     "ft": 71,
-    "age": 27
+    "age": 26
   },
   {
     "name": "Lauri Markkanen",
@@ -4141,7 +4141,7 @@
     "threePoint": 76,
     "reb": 81,
     "ft": 70,
-    "age": 35
+    "age": 34
   },
   {
     "name": "Lonnie Walker IV",
@@ -4151,13 +4151,13 @@
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4277890.png&w=200&h=145",
     "number": 1,
-    "height": "6\"4'",
+    "height": "6\"5'",
     "off": 68,
     "def": 78,
     "threePoint": 84,
     "reb": 45,
     "ft": 79,
-    "age": 21
+    "age": 20
   },
   {
     "name": "Lonzo Ball",
@@ -4173,7 +4173,7 @@
     "threePoint": 73,
     "reb": 63,
     "ft": 41,
-    "age": 22
+    "age": 21
   },
   {
     "name": "Lou Williams",
@@ -4189,7 +4189,7 @@
     "threePoint": 79,
     "reb": 54,
     "ft": 87,
-    "age": 33
+    "age": 32
   },
   {
     "name": "Luc Mbah a Moute",
@@ -4212,7 +4212,7 @@
     "team": 6,
     "years": 3,
     "salary": 3561000,
-    "position": 1,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3945274.png&w=200&h=145",
     "number": 77,
     "height": "6\"7'",
@@ -4221,7 +4221,7 @@
     "threePoint": 72,
     "reb": 76,
     "ft": 70,
-    "age": 21
+    "age": 20
   },
   {
     "name": "Luke Kennard",
@@ -4244,7 +4244,7 @@
     "team": 4,
     "years": 2,
     "salary": 2250000,
-    "position": 4,
+    "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3064560.png&w=200&h=145",
     "number": 2,
     "height": "7\"1'",
@@ -4262,21 +4262,21 @@
     "salary": 21250000,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2566769.png&w=200&h=145",
-    "number": 13,
+    "number": 7,
     "height": "6\"5'",
     "off": 90,
     "def": 76,
     "threePoint": 92,
     "reb": 63,
     "ft": 92,
-    "age": 27
+    "age": 26
   },
   {
     "name": "Malcolm Miller",
     "team": 28,
     "years": 1,
     "salary": 228709,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2580980.png&w=200&h=145",
     "number": 13,
     "height": "6\"7'",
@@ -4285,7 +4285,7 @@
     "threePoint": 99,
     "reb": 45,
     "ft": 74,
-    "age": 27
+    "age": 26
   },
   {
     "name": "Malik Beasley",
@@ -4301,7 +4301,7 @@
     "threePoint": 87,
     "reb": 54,
     "ft": 84,
-    "age": 23
+    "age": 22
   },
   {
     "name": "Malik Monk",
@@ -4317,7 +4317,7 @@
     "threePoint": 73,
     "reb": 49,
     "ft": 87,
-    "age": 22
+    "age": 21
   },
   {
     "name": "Marc Gasol",
@@ -4333,7 +4333,7 @@
     "threePoint": 80,
     "reb": 76,
     "ft": 75,
-    "age": 35
+    "age": 34
   },
   {
     "name": "Marco Belinelli",
@@ -4349,7 +4349,7 @@
     "threePoint": 81,
     "reb": 54,
     "ft": 89,
-    "age": 34
+    "age": 33
   },
   {
     "name": "Marcus Derrickson",
@@ -4388,7 +4388,7 @@
     "team": 1,
     "years": 3,
     "salary": 12999975,
-    "position": 1,
+    "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2990992.png&w=200&h=145",
     "number": 36,
     "height": "6\"4'",
@@ -4397,23 +4397,23 @@
     "threePoint": 80,
     "reb": 54,
     "ft": 80,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Mario Hezonja",
     "team": 24,
     "years": 2,
     "salary": 1830141,
-    "position": 1,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2995706.png&w=200&h=145",
-    "number": 8,
+    "number": 44,
     "height": "6\"8'",
     "off": 76,
     "def": 70,
     "threePoint": 62,
     "reb": 58,
     "ft": 75,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Markelle Fultz",
@@ -4438,7 +4438,7 @@
     "salary": 3280000,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6461.png&w=200&h=145",
-    "number": 5,
+    "number": 8,
     "height": "6\"10'",
     "off": 77,
     "def": 71,
@@ -4461,7 +4461,7 @@
     "threePoint": 70,
     "reb": 76,
     "ft": 68,
-    "age": 21
+    "age": 20
   },
   {
     "name": "Marvin Williams",
@@ -4484,7 +4484,7 @@
     "team": 7,
     "years": 1,
     "salary": 13479452,
-    "position": 4,
+    "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2488653.png&w=200&h=145",
     "number": 24,
     "height": "6\"11'",
@@ -4493,7 +4493,7 @@
     "threePoint": 41,
     "reb": 67,
     "ft": 55,
-    "age": 30
+    "age": 29
   },
   {
     "name": "Matthew Dellavedova",
@@ -4502,7 +4502,7 @@
     "salary": 9607500,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2489716.png&w=200&h=145",
-    "number": 8,
+    "number": 18,
     "height": "6\"4'",
     "off": 73,
     "def": 73,
@@ -4518,7 +4518,7 @@
     "salary": 11174156.5,
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6591.png&w=200&h=145",
-    "number": 4,
+    "number": 8,
     "height": "6\"9'",
     "off": 79,
     "def": 69,
@@ -4541,7 +4541,7 @@
     "threePoint": 78,
     "reb": 63,
     "ft": 77,
-    "age": 28
+    "age": 27
   },
   {
     "name": "Melvin Frazier",
@@ -4564,16 +4564,16 @@
     "team": 15,
     "years": 1,
     "salary": 10941010.5,
-    "position": 4,
+    "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6605.png&w=200&h=145",
-    "number": 11,
-    "height": "7\"1'",
+    "number": 0,
+    "height": "7\"0'",
     "off": 80,
     "def": 72,
     "threePoint": 97,
     "reb": 58,
     "ft": 83,
-    "age": 28
+    "age": 27
   },
   {
     "name": "Michael Carter-Williams",
@@ -4582,7 +4582,7 @@
     "salary": 2028594,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2596108.png&w=200&h=145",
-    "number": 1,
+    "number": 7,
     "height": "6\"6'",
     "off": 70,
     "def": 72,
@@ -4612,8 +4612,8 @@
     "team": 7,
     "years": 0,
     "salary": 1000000,
-    "position": 2,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "position": 3,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278104.png&w=200&h=145",
     "number": 1,
     "height": "6\"10'",
     "off": 76,
@@ -4621,14 +4621,14 @@
     "threePoint": 76,
     "reb": 76,
     "ft": 60,
-    "age": 26
+    "age": 21
   },
   {
     "name": "Mikal Bridges",
     "team": 23,
     "years": 3,
     "salary": 1928490,
-    "position": 1,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3147657.png&w=200&h=145",
     "number": 25,
     "height": "6\"7'",
@@ -4646,7 +4646,7 @@
     "salary": 28486374,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3195.png&w=200&h=145",
-    "number": 11,
+    "number": 10,
     "height": "6\"1'",
     "off": 94,
     "def": 80,
@@ -4660,9 +4660,9 @@
     "team": 20,
     "years": 2,
     "salary": 2155814,
-    "position": 4,
+    "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2490089.png&w=200&h=145",
-    "number": 31,
+    "number": 33,
     "height": "6\"11'",
     "off": 74,
     "def": 70,
@@ -4678,8 +4678,8 @@
     "salary": 4900000,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6622.png&w=200&h=145",
-    "number": 30,
-    "height": "6\"8'",
+    "number": 1,
+    "height": "6\"7'",
     "off": 73,
     "def": 73,
     "threePoint": 87,
@@ -4701,7 +4701,7 @@
     "threePoint": 72,
     "reb": 58,
     "ft": 74,
-    "age": 22
+    "age": 21
   },
   {
     "name": "Miles Plumlee",
@@ -4742,14 +4742,14 @@
     "salary": 761288,
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4351852.png&w=200&h=145",
-    "number": 26,
-    "height": "6\"11'",
+    "number": 23,
+    "height": "7\"1'",
     "off": 86,
     "def": 66,
     "threePoint": 44,
     "reb": 67,
     "ft": 59,
-    "age": 22
+    "age": 21
   },
   {
     "name": "Mohamed Bamba",
@@ -4797,16 +4797,16 @@
     "threePoint": 44,
     "reb": 72,
     "ft": 63,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Moritz Wagner",
     "team": 29,
     "years": 3,
     "salary": 956400,
-    "position": 3,
+    "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3150844.png&w=200&h=145",
-    "number": 15,
+    "number": 21,
     "height": "6\"11'",
     "off": 72,
     "def": 70,
@@ -4829,7 +4829,7 @@
     "threePoint": 85,
     "reb": 72,
     "ft": 73,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Nemanja Bjelica",
@@ -4853,7 +4853,7 @@
     "years": 0,
     "salary": 1000000,
     "position": 4,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1713.png&w=200&h=145",
     "number": 42,
     "height": "6\"11'",
     "off": 76,
@@ -4868,23 +4868,23 @@
     "team": 20,
     "years": 1,
     "salary": 2028594,
-    "position": 4,
+    "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2991280.png&w=200&h=145",
-    "number": 3,
+    "number": 9,
     "height": "6\"11'",
     "off": 81,
     "def": 73,
     "threePoint": 43,
     "reb": 58,
     "ft": 67,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Nicolas Batum",
     "team": 3,
     "years": 2,
     "salary": 16521739,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3416.png&w=200&h=145",
     "number": 5,
     "height": "6\"8'",
@@ -4893,7 +4893,7 @@
     "threePoint": 85,
     "reb": 63,
     "ft": 86,
-    "age": 31
+    "age": 30
   },
   {
     "name": "Nikola Jokic",
@@ -4903,13 +4903,13 @@
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3112335.png&w=200&h=145",
     "number": 15,
-    "height": "6\"10'",
+    "height": "7\"0'",
     "off": 97,
     "def": 87,
     "threePoint": 68,
     "reb": 90,
     "ft": 81,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Nikola Vucevic",
@@ -4925,7 +4925,7 @@
     "threePoint": 80,
     "reb": 94,
     "ft": 78,
-    "age": 29
+    "age": 28
   },
   {
     "name": "Noah Vonleh",
@@ -4934,7 +4934,7 @@
     "salary": 200000,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3078284.png&w=200&h=145",
-    "number": 30,
+    "number": 1,
     "height": "6\"9'",
     "off": 78,
     "def": 72,
@@ -4948,7 +4948,7 @@
     "team": 28,
     "years": 3,
     "salary": 7587432,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2595516.png&w=200&h=145",
     "number": 24,
     "height": "6\"4'",
@@ -4977,12 +4977,12 @@
   },
   {
     "name": "Omari Spellman",
-    "team": 0,
+    "team": 9,
     "years": 3,
     "salary": 879570,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065836.png&w=200&h=145",
-    "number": 6,
+    "number": 4,
     "height": "6\"9'",
     "off": 73,
     "def": 73,
@@ -4997,7 +4997,7 @@
     "years": 0,
     "salary": 1000000,
     "position": 2,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2594922.png&w=200&h=145",
     "number": 22,
     "height": "6\"8'",
     "off": 86,
@@ -5013,15 +5013,15 @@
     "years": 2,
     "salary": 6295921.333,
     "position": 2,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 4,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3033.png&w=200&h=145",
+    "number": 17,
     "height": "6\"6'",
     "off": 75,
     "def": 75,
     "threePoint": 75,
     "reb": 75,
     "ft": 60,
-    "age": 26
+    "age": 34
   },
   {
     "name": "Pascal Siakam",
@@ -5037,7 +5037,7 @@
     "threePoint": 81,
     "reb": 72,
     "ft": 78,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Pat Connaughton",
@@ -5047,13 +5047,13 @@
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2578239.png&w=200&h=145",
     "number": 24,
-    "height": "6\"5'",
+    "height": "6\"4'",
     "off": 77,
     "def": 71,
     "threePoint": 73,
     "reb": 58,
     "ft": 72,
-    "age": 27
+    "age": 26
   },
   {
     "name": "Patrick Beverley",
@@ -5076,16 +5076,16 @@
     "team": 28,
     "years": 2,
     "salary": 4000000,
-    "position": 1,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3137730.png&w=200&h=145",
-    "number": 0,
+    "number": 22,
     "height": "6\"7'",
     "off": 70,
     "def": 72,
     "threePoint": 71,
     "reb": 49,
     "ft": 86,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Patrick Patterson",
@@ -5101,7 +5101,7 @@
     "threePoint": 74,
     "reb": 49,
     "ft": 62,
-    "age": 31
+    "age": 30
   },
   {
     "name": "Patty Mills",
@@ -5124,7 +5124,7 @@
     "team": 12,
     "years": 3,
     "salary": 24754167,
-    "position": 1,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4251.png&w=200&h=145",
     "number": 13,
     "height": "6\"9'",
@@ -5149,7 +5149,7 @@
     "threePoint": 80,
     "reb": 72,
     "ft": 72,
-    "age": 35
+    "age": 34
   },
   {
     "name": "Quinn Cook",
@@ -5158,14 +5158,14 @@
     "salary": 3000000,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2566745.png&w=200&h=145",
-    "number": 4,
+    "number": 2,
     "height": "6\"2'",
     "off": 77,
     "def": 71,
     "threePoint": 88,
     "reb": 49,
     "ft": 76,
-    "age": 27
+    "age": 26
   },
   {
     "name": "Rajon Rondo",
@@ -5181,7 +5181,7 @@
     "threePoint": 79,
     "reb": 63,
     "ft": 63,
-    "age": 34
+    "age": 33
   },
   {
     "name": "Raul Neto",
@@ -5190,7 +5190,7 @@
     "salary": 1737145,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2968361.png&w=200&h=145",
-    "number": 25,
+    "number": 19,
     "height": "6\"1'",
     "off": 74,
     "def": 70,
@@ -5213,16 +5213,16 @@
     "threePoint": 82,
     "reb": 54,
     "ft": 85,
-    "age": 30
+    "age": 29
   },
   {
     "name": "Richaun Holmes",
     "team": 25,
     "years": 2,
     "salary": 4886175,
-    "position": 4,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2993370.png&w=200&h=145",
-    "number": 21,
+    "number": 22,
     "height": "6\"10'",
     "off": 84,
     "def": 70,
@@ -5238,14 +5238,14 @@
     "salary": 17000000,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4011.png&w=200&h=145",
-    "number": 3,
+    "number": 11,
     "height": "6\"4'",
     "off": 81,
     "def": 73,
     "threePoint": 69,
     "reb": 58,
     "ft": 85,
-    "age": 29
+    "age": 28
   },
   {
     "name": "Robert Covington",
@@ -5255,13 +5255,13 @@
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2490620.png&w=200&h=145",
     "number": 33,
-    "height": "6\"9'",
+    "height": "6\"8'",
     "off": 83,
     "def": 77,
     "threePoint": 83,
     "reb": 67,
     "ft": 75,
-    "age": 29
+    "age": 28
   },
   {
     "name": "Robert Williams",
@@ -5293,7 +5293,7 @@
     "threePoint": 42,
     "reb": 58,
     "ft": 71,
-    "age": 32
+    "age": 31
   },
   {
     "name": "Rodions Kurucs",
@@ -5309,7 +5309,7 @@
     "threePoint": 70,
     "reb": 58,
     "ft": 77,
-    "age": 22
+    "age": 21
   },
   {
     "name": "Rodney Hood",
@@ -5318,7 +5318,7 @@
     "salary": 5860950,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2581177.png&w=200&h=145",
-    "number": 65,
+    "number": 5,
     "height": "6\"8'",
     "off": 80,
     "def": 70,
@@ -5334,7 +5334,7 @@
     "salary": 5000000,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2488826.png&w=200&h=145",
-    "number": 17,
+    "number": 19,
     "height": "6\"4'",
     "off": 75,
     "def": 73,
@@ -5350,14 +5350,14 @@
     "salary": 2500000,
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3064291.png&w=200&h=145",
-    "number": 24,
+    "number": 4,
     "height": "6\"7'",
     "off": 77,
     "def": 71,
     "threePoint": 44,
     "reb": 63,
     "ft": 64,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Royce ONeale",
@@ -5365,7 +5365,7 @@
     "years": 1,
     "salary": 689121,
     "position": 2,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2583632.png&w=200&h=145",
     "number": 23,
     "height": "6\"6'",
     "off": 75,
@@ -5421,7 +5421,7 @@
     "threePoint": 73,
     "reb": 90,
     "ft": 68,
-    "age": 31
+    "age": 30
   },
   {
     "name": "Ryan Arcidiacono",
@@ -5430,14 +5430,14 @@
     "salary": 3000000,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2991047.png&w=200&h=145",
-    "number": 1,
+    "number": 51,
     "height": "6\"3'",
     "off": 75,
     "def": 69,
     "threePoint": 82,
     "reb": 54,
     "ft": 86,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Ryan Broekhoff",
@@ -5469,7 +5469,7 @@
     "threePoint": 70,
     "reb": 49,
     "ft": 61,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Serge Ibaka",
@@ -5494,7 +5494,7 @@
     "salary": 8000000,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2326307.png&w=200&h=145",
-    "number": 5,
+    "number": 30,
     "height": "6\"2'",
     "off": 78,
     "def": 70,
@@ -5540,10 +5540,10 @@
     "team": 22,
     "years": 0,
     "salary": 1000000,
-    "position": 0,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3915195.png&w=200&h=145",
     "number": 18,
-    "height": "6\"6'",
+    "height": "6\"5'",
     "off": 70,
     "def": 72,
     "threePoint": 71,
@@ -5558,14 +5558,14 @@
     "salary": 1941899,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3936296.png&w=200&h=145",
-    "number": 7,
+    "number": 17,
     "height": "6\"11'",
     "off": 74,
     "def": 66,
     "threePoint": 99,
     "reb": 49,
     "ft": 52,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Solomon Hill",
@@ -5581,7 +5581,7 @@
     "threePoint": 70,
     "reb": 54,
     "ft": 71,
-    "age": 29
+    "age": 28
   },
   {
     "name": "Spencer Dinwiddie",
@@ -5591,13 +5591,13 @@
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2580782.png&w=200&h=145",
     "number": 8,
-    "height": "6\"6'",
+    "height": "6\"5'",
     "off": 88,
     "def": 76,
     "threePoint": 74,
     "reb": 49,
     "ft": 80,
-    "age": 27
+    "age": 26
   },
   {
     "name": "Stanley Johnson",
@@ -5606,7 +5606,7 @@
     "salary": 3713575,
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3134881.png&w=200&h=145",
-    "number": 7,
+    "number": 5,
     "height": "6\"7'",
     "off": 73,
     "def": 73,
@@ -5629,7 +5629,7 @@
     "threePoint": 94,
     "reb": 63,
     "ft": 91,
-    "age": 32
+    "age": 31
   },
   {
     "name": "Sterling Brown",
@@ -5645,7 +5645,7 @@
     "threePoint": 79,
     "reb": 54,
     "ft": 68,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Steven Adams",
@@ -5670,14 +5670,14 @@
     "salary": 495898,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3133602.png&w=200&h=145",
-    "number": 10,
+    "number": 19,
     "height": "6\"8'",
     "off": 69,
     "def": 69,
     "threePoint": 69,
     "reb": 69,
     "ft": 60,
-    "age": 26
+    "age": 22
   },
   {
     "name": "T.J. Leaf",
@@ -5693,7 +5693,7 @@
     "threePoint": 73,
     "reb": 73,
     "ft": 60,
-    "age": 26
+    "age": 22
   },
   {
     "name": "T.J. McConnell",
@@ -5702,14 +5702,14 @@
     "salary": 3500000,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2530530.png&w=200&h=145",
-    "number": 12,
+    "number": 9,
     "height": "6\"2'",
     "off": 79,
     "def": 73,
     "threePoint": 74,
     "reb": 49,
     "ft": 77,
-    "age": 28
+    "age": 27
   },
   {
     "name": "T.J. Warren",
@@ -5718,7 +5718,7 @@
     "salary": 11750000,
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2982334.png&w=200&h=145",
-    "number": 12,
+    "number": 1,
     "height": "6\"8'",
     "off": 91,
     "def": 71,
@@ -5745,26 +5745,26 @@
   },
   {
     "name": "Taurean Prince",
-    "team": 0,
+    "team": 2,
     "years": 0,
     "salary": 1000000,
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2990962.png&w=200&h=145",
-    "number": 12,
-    "height": "6\"8'",
+    "number": 2,
+    "height": "6\"7'",
     "off": 83,
     "def": 71,
     "threePoint": 85,
     "reb": 58,
     "ft": 81,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Terrance Ferguson",
     "team": 20,
     "years": 2,
     "salary": 1531560,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4230546.png&w=200&h=145",
     "number": 23,
     "height": "6\"7'",
@@ -5780,16 +5780,16 @@
     "team": 21,
     "years": 4,
     "salary": 13500000,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6619.png&w=200&h=145",
-    "number": 31,
+    "number": 8,
     "height": "6\"7'",
     "off": 84,
     "def": 70,
     "threePoint": 84,
     "reb": 58,
     "ft": 87,
-    "age": 29
+    "age": 28
   },
   {
     "name": "Terry Rozier",
@@ -5799,13 +5799,13 @@
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3074752.png&w=200&h=145",
     "number": 12,
-    "height": "6\"2'",
+    "height": "6\"1'",
     "off": 84,
     "def": 76,
     "threePoint": 78,
     "reb": 58,
     "ft": 78,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Thaddeus Young",
@@ -5828,16 +5828,16 @@
     "team": 2,
     "years": 1,
     "salary": 1445697,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3138154.png&w=200&h=145",
-    "number": 10,
-    "height": "6\"8'",
+    "number": 1,
+    "height": "6\"5'",
     "off": 68,
     "def": 68,
     "threePoint": 59,
     "reb": 49,
     "ft": 85,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Thomas Bryant",
@@ -5876,7 +5876,7 @@
     "team": 8,
     "years": 1,
     "salary": 3184681.5,
-    "position": 2,
+    "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4017843.png&w=200&h=145",
     "number": 7,
     "height": "7\"1'",
@@ -5885,7 +5885,7 @@
     "threePoint": 71,
     "reb": 54,
     "ft": 66,
-    "age": 23
+    "age": 22
   },
   {
     "name": "Tim Frazier",
@@ -5894,14 +5894,14 @@
     "salary": 1882867,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2488945.png&w=200&h=145",
-    "number": 8,
+    "number": 12,
     "height": "6\"1'",
     "off": 73,
     "def": 71,
     "threePoint": 80,
     "reb": 54,
     "ft": 75,
-    "age": 29
+    "age": 28
   },
   {
     "name": "Tim Hardaway Jr.",
@@ -5909,25 +5909,25 @@
     "years": 0,
     "salary": 1000000,
     "position": 1,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 3,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2528210.png&w=200&h=145",
+    "number": 11,
     "height": "6\"6'",
     "off": 85,
     "def": 69,
     "threePoint": 75,
     "reb": 54,
     "ft": 83,
-    "age": 28
+    "age": 27
   },
   {
     "name": "Tobias Harris",
     "team": 22,
     "years": 5,
     "salary": 36000000,
-    "position": 3,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6440.png&w=200&h=145",
-    "number": 34,
-    "height": "6\"9'",
+    "number": 12,
+    "height": "6\"8'",
     "off": 94,
     "def": 76,
     "threePoint": 86,
@@ -5940,7 +5940,7 @@
     "team": 4,
     "years": 3,
     "salary": 10000000,
-    "position": 0,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6621.png&w=200&h=145",
     "number": 31,
     "height": "6\"7'",
@@ -5949,7 +5949,7 @@
     "threePoint": 86,
     "reb": 58,
     "ft": 81,
-    "age": 28
+    "age": 27
   },
   {
     "name": "Tony Bradley Jr.",
@@ -5988,16 +5988,16 @@
     "team": 8,
     "years": 2,
     "salary": 7333333.333,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2528353.png&w=200&h=145",
-    "number": 21,
+    "number": 17,
     "height": "6\"7'",
     "off": 75,
     "def": 71,
     "threePoint": 86,
     "reb": 49,
     "ft": 87,
-    "age": 28
+    "age": 27
   },
   {
     "name": "Torrey Craig",
@@ -6007,13 +6007,13 @@
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2528693.png&w=200&h=145",
     "number": 3,
-    "height": "6\"6'",
+    "height": "6\"7'",
     "off": 74,
     "def": 72,
     "threePoint": 72,
     "reb": 58,
     "ft": 69,
-    "age": 29
+    "age": 28
   },
   {
     "name": "Trae Young",
@@ -6038,14 +6038,14 @@
     "salary": 756300.5,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2595231.png&w=200&h=145",
-    "number": 21,
+    "number": 12,
     "height": "6\"6'",
     "off": 68,
     "def": 70,
     "threePoint": 66,
     "reb": 54,
     "ft": 81,
-    "age": 26
+    "age": 25
   },
   {
     "name": "Trevon Duval",
@@ -6070,7 +6070,7 @@
     "salary": 12500000,
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2426.png&w=200&h=145",
-    "number": 3,
+    "number": 0,
     "height": "6\"8'",
     "off": 81,
     "def": 71,
@@ -6086,14 +6086,14 @@
     "salary": 5500000,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3136196.png&w=200&h=145",
-    "number": 7,
+    "number": 41,
     "height": "6\"10'",
     "off": 77,
     "def": 71,
     "threePoint": 58,
     "reb": 58,
     "ft": 69,
-    "age": 24
+    "age": 23
   },
   {
     "name": "Tristan Thompson",
@@ -6103,21 +6103,21 @@
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6474.png&w=200&h=145",
     "number": 13,
-    "height": "6\"9'",
+    "height": "6\"10'",
     "off": 85,
     "def": 75,
     "threePoint": 41,
     "reb": 85,
     "ft": 63,
-    "age": 29
+    "age": 28
   },
   {
     "name": "Troy Brown Jr.",
     "team": 29,
     "years": 0,
     "salary": 1000000,
-    "position": 1,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "position": 2,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278508.png&w=200&h=145",
     "number": 6,
     "height": "6\"7'",
     "off": 72,
@@ -6132,7 +6132,7 @@
     "team": 13,
     "years": 1,
     "salary": 2028594,
-    "position": 1,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2489530.png&w=200&h=145",
     "number": 30,
     "height": "6\"4'",
@@ -6150,7 +6150,7 @@
     "salary": 9622685,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2530276.png&w=200&h=145",
-    "number": 8,
+    "number": 16,
     "height": "6\"4'",
     "off": 79,
     "def": 71,
@@ -6182,7 +6182,7 @@
     "salary": 2564753,
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/984.png&w=200&h=145",
-    "number": 16,
+    "number": 19,
     "height": "7\"1'",
     "off": 79,
     "def": 69,
@@ -6198,7 +6198,7 @@
     "salary": 8815100,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3135046.png&w=200&h=145",
-    "number": 1,
+    "number": 21,
     "height": "6\"2'",
     "off": 75,
     "def": 71,
@@ -6247,13 +6247,13 @@
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3981.png&w=200&h=145",
     "number": 2,
-    "height": "6\"4'",
+    "height": "6\"5'",
     "off": 78,
     "def": 72,
     "threePoint": 81,
     "reb": 49,
     "ft": 79,
-    "age": 32
+    "age": 31
   },
   {
     "name": "Wayne Selden Jr.",
@@ -6276,8 +6276,8 @@
     "team": 4,
     "years": 0,
     "salary": 1000000,
-    "position": 3,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "position": 4,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4277847.png&w=200&h=145",
     "number": 34,
     "height": "6\"10'",
     "off": 82,
@@ -6285,7 +6285,7 @@
     "threePoint": 45,
     "reb": 72,
     "ft": 79,
-    "age": 21
+    "age": 20
   },
   {
     "name": "Wenyen Gabriel",
@@ -6301,7 +6301,7 @@
     "threePoint": 67,
     "reb": 67,
     "ft": 60,
-    "age": 26
+    "age": 22
   },
   {
     "name": "Wesley Iwundu",
@@ -6342,7 +6342,7 @@
     "salary": 2628872,
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4032.png&w=200&h=145",
-    "number": 23,
+    "number": 9,
     "height": "6\"5'",
     "off": 80,
     "def": 72,
@@ -6365,7 +6365,7 @@
     "threePoint": 75,
     "reb": 63,
     "ft": 76,
-    "age": 29
+    "age": 28
   },
   {
     "name": "Willie Cauley-Stein",
@@ -6374,7 +6374,7 @@
     "salary": 2231920,
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2991282.png&w=200&h=145",
-    "number": 0,
+    "number": 2,
     "height": "7\"0'",
     "off": 87,
     "def": 73,
@@ -6390,7 +6390,7 @@
     "salary": 772475.5,
     "position": 4,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2999409.png&w=200&h=145",
-    "number": 41,
+    "number": 9,
     "height": "6\"11'",
     "off": 80,
     "def": 74,
@@ -6406,7 +6406,7 @@
     "salary": 2564753,
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3194.png&w=200&h=145",
-    "number": 22,
+    "number": 21,
     "height": "6\"8'",
     "off": 74,
     "def": 74,
@@ -6452,10 +6452,10 @@
     "team": 14,
     "years": 0,
     "salary": 1000000,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3133838.png&w=200&h=145",
-    "number": 12,
-    "height": "6\"8'",
+    "number": 18,
+    "height": "6\"9'",
     "off": 64,
     "def": 72,
     "threePoint": 40,
@@ -6477,14 +6477,14 @@
     "threePoint": 73,
     "reb": 58,
     "ft": 74,
-    "age": 22
+    "age": 21
   },
   {
     "name": "Zach LaVine",
     "team": 4,
     "years": 3,
     "salary": 19500000,
-    "position": 1,
+    "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3064440.png&w=200&h=145",
     "number": 8,
     "height": "6\"5'",
@@ -6493,7 +6493,7 @@
     "threePoint": 82,
     "reb": 63,
     "ft": 82,
-    "age": 25
+    "age": 24
   },
   {
     "name": "Zhaire Smith",
@@ -6503,7 +6503,7 @@
     "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4277923.png&w=200&h=145",
     "number": 8,
-    "height": "6\"4'",
+    "height": "6\"3'",
     "off": 74,
     "def": 70,
     "threePoint": 82,
@@ -6517,7 +6517,7 @@
     "years": 2,
     "salary": 1200000,
     "position": 2,
-    "faceSrc": "https://a1.espncdn.com/combiner/i?img=/i/headshots/nbadraft/players/full/102985.png&w=200&h=145",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065732.png&w=200&h=145",
     "number": 12,
     "height": "6\"7'",
     "off": 84,
@@ -6549,8 +6549,8 @@
     "years": 2,
     "salary": 1200000,
     "position": 1,
-    "faceSrc": "https://a1.espncdn.com/combiner/i?img=/i/headshots/nbadraft/players/full/102979.png&w=200&h=145",
-    "number": 0,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4397008.png&w=200&h=145",
+    "number": 45,
     "height": "6\"6'",
     "off": 80,
     "def": 64,
@@ -6565,15 +6565,15 @@
     "years": 2,
     "salary": 1200000,
     "position": 3,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 24,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066218.png&w=200&h=145",
+    "number": 12,
     "height": "6\"7'",
     "off": 62,
     "def": 57,
     "threePoint": 63,
     "reb": 41,
     "ft": 83,
-    "age": 21
+    "age": 20
   },
   {
     "name": "PJ Washington",
@@ -6581,15 +6581,15 @@
     "years": 2,
     "salary": 1200000,
     "position": 3,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 8,
-    "height": "6\"8'",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278078.png&w=200&h=145",
+    "number": 25,
+    "height": "6\"7'",
     "off": 58,
     "def": 68,
     "threePoint": 75,
     "reb": 40,
     "ft": 79,
-    "age": 20
+    "age": 21
   },
   {
     "name": "Coby White",
@@ -6597,8 +6597,8 @@
     "years": 2,
     "salary": 1200000,
     "position": 0,
-    "faceSrc": "https://a1.espncdn.com/combiner/i?img=/i/headshots/nbadraft/players/full/103008.png&w=200&h=145",
-    "number": 2,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395651.png&w=200&h=145",
+    "number": 0,
     "height": "6\"5'",
     "off": 86,
     "def": 63,
@@ -6613,7 +6613,7 @@
     "years": 2,
     "salary": 1200000,
     "position": 0,
-    "faceSrc": "https://a1.espncdn.com/combiner/i?img=/i/headshots/nbadraft/players/full/102983.png&w=200&h=145",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4396907.png&w=200&h=145",
     "number": 10,
     "height": "6\"2'",
     "off": 81,
@@ -6629,15 +6629,15 @@
     "years": 2,
     "salary": 1200000,
     "position": 1,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 5,
-    "height": "6\"7'",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3906786.png&w=200&h=145",
+    "number": 9,
+    "height": "6\"8'",
     "off": 66,
     "def": 59,
     "threePoint": 77,
     "reb": 40,
     "ft": 84,
-    "age": 22
+    "age": 23
   },
   {
     "name": "Sekou Doumbouya",
@@ -6645,15 +6645,15 @@
     "years": 2,
     "salary": 1200000,
     "position": 2,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 13,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4423314.png&w=200&h=145",
+    "number": 45,
     "height": "6\"9'",
     "off": 66,
     "def": 57,
     "threePoint": 89,
     "reb": 41,
     "ft": 53,
-    "age": 19
+    "age": 18
   },
   {
     "name": "Kevin Porter",
@@ -6676,16 +6676,16 @@
     "team": 12,
     "years": 2,
     "salary": 1200000,
-    "position": 4,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 2,
+    "position": 3,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065660.png&w=200&h=145",
+    "number": 25,
     "height": "6\"10'",
     "off": 76,
     "def": 64,
     "threePoint": 61,
     "reb": 44,
     "ft": 73,
-    "age": 20
+    "age": 22
   },
   {
     "name": "Ja Morant",
@@ -6693,7 +6693,7 @@
     "years": 2,
     "salary": 1200000,
     "position": 0,
-    "faceSrc": "https://a1.espncdn.com/combiner/i?img=/i/headshots/nbadraft/players/full/102990.png&w=200&h=145",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4279888.png&w=200&h=145",
     "number": 12,
     "height": "6\"3'",
     "off": 87,
@@ -6708,16 +6708,16 @@
     "team": 14,
     "years": 2,
     "salary": 1200000,
-    "position": 4,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 8,
+    "position": 3,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3906665.png&w=200&h=145",
+    "number": 15,
     "height": "6\"8'",
     "off": 69,
     "def": 62,
     "threePoint": 69,
     "reb": 46,
     "ft": 80,
-    "age": 21
+    "age": 23
   },
   {
     "name": "Tyler Herro",
@@ -6725,8 +6725,8 @@
     "years": 2,
     "salary": 1200000,
     "position": 1,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 27,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395725.png&w=200&h=145",
+    "number": 14,
     "height": "6\"5'",
     "off": 82,
     "def": 63,
@@ -6741,9 +6741,9 @@
     "years": 2,
     "salary": 1200000,
     "position": 1,
-    "faceSrc": "https://a1.espncdn.com/combiner/i?img=/i/headshots/nbadraft/players/full/102992.png&w=200&h=145",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4277928.png&w=200&h=145",
     "number": 23,
-    "height": "6\"6'",
+    "height": "6\"7'",
     "off": 77,
     "def": 61,
     "threePoint": 89,
@@ -6756,10 +6756,10 @@
     "team": 18,
     "years": 2,
     "salary": 1200000,
-    "position": 3,
-    "faceSrc": "https://a1.espncdn.com/combiner/i?img=/i/headshots/nbadraft/players/full/102976.png&w=200&h=145",
+    "position": 2,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395628.png&w=200&h=145",
     "number": 1,
-    "height": "6\"6'",
+    "height": "6\"7'",
     "off": 89,
     "def": 85,
     "threePoint": 55,
@@ -6773,15 +6773,15 @@
     "years": 2,
     "salary": 1200000,
     "position": 1,
-    "faceSrc": "https://a1.espncdn.com/combiner/i?img=/i/headshots/nbadraft/players/full/102999.png&w=200&h=145",
-    "number": 4,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278039.png&w=200&h=145",
+    "number": 0,
     "height": "6\"5'",
     "off": 77,
     "def": 74,
     "threePoint": 67,
     "reb": 54,
     "ft": 82,
-    "age": 20
+    "age": 21
   },
   {
     "name": "Jaxson Hayes",
@@ -6789,7 +6789,7 @@
     "years": 2,
     "salary": 1200000,
     "position": 4,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4397077.png&w=200&h=145",
     "number": 10,
     "height": "6\"11'",
     "off": 77,
@@ -6801,12 +6801,12 @@
   },
   {
     "name": "Goga Bitadze",
-    "team": 18,
+    "team": 11,
     "years": 2,
     "salary": 1200000,
     "position": 4,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 31,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4348700.png&w=200&h=145",
+    "number": 88,
     "height": "6\"11'",
     "off": 75,
     "def": 61,
@@ -6820,9 +6820,9 @@
     "team": 19,
     "years": 2,
     "salary": 1200000,
-    "position": 1,
-    "faceSrc": "https://a1.espncdn.com/combiner/i?img=/i/headshots/nbadraft/players/full/102975.png&w=200&h=145",
-    "number": 5,
+    "position": 2,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395625.png&w=200&h=145",
+    "number": 9,
     "height": "6\"7'",
     "off": 85,
     "def": 78,
@@ -6837,9 +6837,9 @@
     "years": 2,
     "salary": 1200000,
     "position": 2,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 25,
-    "height": "6\"9'",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4423545.png&w=200&h=145",
+    "number": 7,
+    "height": "6\"8'",
     "off": 51,
     "def": 69,
     "threePoint": 40,
@@ -6869,9 +6869,9 @@
     "years": 2,
     "salary": 1200000,
     "position": 1,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 24,
-    "height": "6\"6'",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3907498.png&w=200&h=145",
+    "number": 22,
+    "height": "6\"5'",
     "off": 62,
     "def": 66,
     "threePoint": 40,
@@ -6885,15 +6885,15 @@
     "years": 2,
     "salary": 1200000,
     "position": 0,
-    "faceSrc": "https://a1.espncdn.com/combiner/i?img=/i/headshots/nbadraft/players/full/103004.png&w=200&h=145",
-    "number": 11,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065733.png&w=200&h=145",
+    "number": 10,
     "height": "6\"5'",
     "off": 61,
     "def": 52,
     "threePoint": 87,
     "reb": 40,
     "ft": 57,
-    "age": 21
+    "age": 22
   },
   {
     "name": "Cameron Johnson",
@@ -6901,15 +6901,15 @@
     "years": 2,
     "salary": 1200000,
     "position": 2,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 9,
-    "height": "6\"8'",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3138196.png&w=200&h=145",
+    "number": 23,
+    "height": "6\"9'",
     "off": 64,
     "def": 65,
     "threePoint": 64,
     "reb": 64,
     "ft": 60,
-    "age": 22
+    "age": 23
   },
   {
     "name": "Nassir Little",
@@ -6917,8 +6917,8 @@
     "years": 2,
     "salary": 1200000,
     "position": 2,
-    "faceSrc": "https://a1.espncdn.com/combiner/i?img=/i/headshots/nbadraft/players/full/102977.png&w=200&h=145",
-    "number": 5,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395652.png&w=200&h=145",
+    "number": 9,
     "height": "6\"6'",
     "off": 83,
     "def": 65,
@@ -6932,8 +6932,8 @@
     "team": 26,
     "years": 2,
     "salary": 1200000,
-    "position": 1,
-    "faceSrc": "https://a1.espncdn.com/combiner/i?img=/i/headshots/nbadraft/players/full/102981.png&w=200&h=145",
+    "position": 2,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395723.png&w=200&h=145",
     "number": 3,
     "height": "6\"6'",
     "off": 77,
@@ -6941,7 +6941,7 @@
     "threePoint": 64,
     "reb": 75,
     "ft": 71,
-    "age": 19
+    "age": 20
   },
   {
     "name": "Luka Samanic",
@@ -6949,9 +6949,9 @@
     "years": 2,
     "salary": 1200000,
     "position": 3,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 17,
-    "height": "6\"10'",
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4423309.png&w=200&h=145",
+    "number": 19,
+    "height": "6\"11'",
     "off": 68,
     "def": 64,
     "threePoint": 61,
@@ -6965,8 +6965,8 @@
     "years": 2,
     "salary": 1200000,
     "position": 2,
-    "faceSrc": "https://a1.espncdn.com/combiner/i?img=/i/headshots/nbadraft/players/full/102986.png&w=200&h=145",
-    "number": 21,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066648.png&w=200&h=145",
+    "number": 8,
     "height": "6\"8'",
     "off": 88,
     "def": 73,
@@ -6982,14 +6982,14 @@
     "salary": 1100000,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3906522.png&w=200&h=145",
-    "number": 8,
-    "height": "6\"11'",
+    "number": 4,
+    "height": "6\"10'",
     "off": 72,
     "def": 66,
     "threePoint": 96,
     "reb": 58,
     "ft": 75,
-    "age": 23
+    "age": 22
   },
   {
     "name": "Shaquille Harrison",
@@ -6998,7 +6998,7 @@
     "salary": 898310,
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2991274.png&w=200&h=145",
-    "number": 10,
+    "number": 3,
     "height": "6\"4'",
     "off": 75,
     "def": 71,
@@ -7028,16 +7028,16 @@
     "team": 11,
     "years": 1,
     "salary": 4767000,
-    "position": 1,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2284101.png&w=200&h=145",
-    "number": 7,
+    "number": 8,
     "height": "6\"6'",
     "off": 77,
     "def": 67,
     "threePoint": 77,
     "reb": 58,
     "ft": 89,
-    "age": 31
+    "age": 30
   },
   {
     "name": "Kyle Korver",
@@ -7053,7 +7053,7 @@
     "threePoint": 86,
     "reb": 49,
     "ft": 81,
-    "age": 39
+    "age": 38
   },
   {
     "name": "Amile Jefferson",
@@ -7079,22 +7079,22 @@
     "position": 0,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2579260.png&w=200&h=145",
     "number": 23,
-    "height": "6\"1'",
+    "height": "6\"0'",
     "off": 79,
     "def": 71,
     "threePoint": 77,
     "reb": 49,
     "ft": 82,
-    "age": 27
+    "age": 26
   },
   {
     "name": "Cheick Diallo",
     "team": 23,
     "years": 1,
     "salary": 1678854,
-    "position": 4,
+    "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3919335.png&w=200&h=145",
-    "number": 13,
+    "number": 14,
     "height": "6\"9'",
     "off": 82,
     "def": 70,
@@ -7108,7 +7108,7 @@
     "team": 24,
     "years": 1,
     "salary": 2564753,
-    "position": 4,
+    "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/996.png&w=200&h=145",
     "number": 16,
     "height": "7\"0'",
@@ -7140,23 +7140,23 @@
     "team": 16,
     "years": 2,
     "salary": 1751429,
-    "position": 3,
+    "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4011991.png&w=200&h=145",
-    "number": 35,
+    "number": 17,
     "height": "7\"1'",
     "off": 73,
     "def": 69,
     "threePoint": 51,
     "reb": 58,
     "ft": 58,
-    "age": 22
+    "age": 21
   },
   {
     "name": "Reggie Bullock",
     "team": 19,
     "years": 2,
     "salary": 4100000,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2528779.png&w=200&h=145",
     "number": 25,
     "height": "6\"7'",
@@ -7165,14 +7165,14 @@
     "threePoint": 82,
     "reb": 54,
     "ft": 85,
-    "age": 29
+    "age": 28
   },
   {
     "name": "Furkan Korkmaz",
     "team": 22,
     "years": 2,
     "salary": 1691680,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3929325.png&w=200&h=145",
     "number": 30,
     "height": "6\"7'",
@@ -7204,7 +7204,7 @@
     "team": 0,
     "years": 1,
     "salary": 2564753,
-    "position": 2,
+    "position": 1,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/136.png&w=200&h=145",
     "number": 15,
     "height": "6\"6'",
@@ -7213,7 +7213,7 @@
     "threePoint": 85,
     "reb": 54,
     "ft": 70,
-    "age": 43
+    "age": 42
   },
   {
     "name": "Jarell Martin",
@@ -7252,16 +7252,16 @@
     "team": 7,
     "years": 1,
     "salary": 1620564,
-    "position": 1,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "number": 50,
+    "position": 0,
+    "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3923250.png&w=200&h=145",
+    "number": 35,
     "height": "6\"6'",
     "off": 66,
     "def": 66,
     "threePoint": 66,
     "reb": 66,
     "ft": 60,
-    "age": 26
+    "age": 22
   },
   {
     "name": "Joe Johnson",
@@ -7286,7 +7286,7 @@
     "salary": 2564753,
     "position": 3,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3412.png&w=200&h=145",
-    "number": 11,
+    "number": 33,
     "height": "6\"10'",
     "off": 65,
     "def": 77,
@@ -7302,7 +7302,7 @@
     "salary": 2564753,
     "position": 2,
     "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3028.png&w=200&h=145",
-    "number": 22,
+    "number": 18,
     "height": "6\"7'",
     "off": 75,
     "def": 75,

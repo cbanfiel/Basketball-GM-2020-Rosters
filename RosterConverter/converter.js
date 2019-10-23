@@ -7,6 +7,7 @@ var freeAgents = require('./NBAJSON/FreeAgents.json');
 
 var teamsData = require('./NBAJSON/Teams.json');
 var playerData = require('./NBAJSON/Players.json');
+var creations = require('./NBAJSON/Creations.json');
 // var freeAgents = require('./JSON/FreeAgents.json');
 
 
@@ -3978,13 +3979,6 @@ function setCustomPlayoffSeeds() {
     return write;
 }
 
-function makeRosterFilePC(){
-
-    var fs = require('fs');
-    fs.writeFile("ros.json", exportRosterJson(), function(err, result) {
-        if(err) console.log('error', err);
-    });
-}
 
 
  async function getDataFromLink(link, type) {
@@ -4370,6 +4364,127 @@ for (let i = 0; i < teams.length; i++) {
         }
     }
 }
+
+function generatePlayer(pos, rating) {
+    let name =
+        draftData[Math.floor(Math.random() * draftData.length)].firstname +
+        " " +
+        draftData[Math.floor(Math.random() * draftData.length)].lastname;
+    let faceSrc = draftData[0].faceSrc;
+    let age = 18;
+    let playerComparison = Math.floor(Math.random() * draftData.length);
+
+    while (draftData[playerComparison].position != pos) {
+        playerComparison = Math.floor(Math.random() * draftData.length);
+    }
+    let number = draftData[playerComparison].number;
+    let position = draftData[playerComparison].position;
+    let height = draftData[playerComparison].height;
+    let off =
+        draftData[playerComparison].off -
+        Math.floor(Math.random() * 12);
+    let def =
+        draftData[playerComparison].def -
+        Math.floor(Math.random() * 12);
+    let threePoint =
+        draftData[playerComparison].threePoint -
+        Math.floor(Math.random() * 12);
+    let reb =
+        draftData[playerComparison].reb -
+        Math.floor(Math.random() * 12);
+    let ft =
+        draftData[playerComparison].ft -
+        Math.floor(Math.random() * 12);
+    //2 years the plus one is because the contract years go down AFTER the draft not before but contract years should be 2 for rookies
+    let years = Math.floor(Math.random() * 3) + 1;
+    let salary = 2400000;
+
+    //RATING FORMULA
+    let ply = new Player({
+        name: name,
+        faceSrc: faceSrc,
+        number: number,
+        age: age,
+        position: position,
+        height: height,
+        off: off,
+        def: def,
+        threePoint: threePoint,
+        reb: reb,
+        ft: ft,
+        years: years,
+        salary: salary
+    });
+    ply.calculateRating();
+
+    while (ply.rating > rating) {
+        if (ply.rating <= rating) {
+            break;
+        }
+
+        ply.off--;
+        ply.def--;
+        ply.threePoint--;
+        ply.reb--;
+        ply.ft--;
+
+        ply.calculateRating();
+    }
+
+    while (ply.rating < rating) {
+        if (ply.rating >= rating) {
+            break;
+        }
+        ply.off++;
+        ply.def++;
+        ply.threePoint++;
+        ply.reb++;
+        ply.ft++;
+
+
+        ply.calculateRating();
+    }
+
+    return ply;
+
+}
+
+
+function createCreations(){
+    for(let i=0; i<creations.length; i++){
+        let rating = Math.round(Math.random()*5) + 60;
+        let ply = generatePlayer(creations[i].position, rating);
+        ply.name = creations[i].name;
+        console.log(ply.name);
+        ply.age = creations[i].age;
+        ply.faceSrc = creations[i].faceSrc;
+        ply.height = creations[i].height;
+        ply.number = creations[i].number;
+        for(let j=0; j<teams.length; j++){
+            if(teams[j].id === creations[i].teamId){
+                teams[j].roster.push(ply);
+                ply.teamName = teams[j].name;
+                ply.teamLogoSrc = teams[j].logoSrc;
+            }
+        }
+
+    }
+}
+
+
+
+
+
+function makeRosterFilePC(){
+
+    var fs = require('fs');
+    fs.writeFile("ros.json", exportRosterJson(), function(err, result) {
+        if(err) console.log('error', err);
+    });
+}
+
+
+createCreations();
 
 makeRosterFilePC();
 

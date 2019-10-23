@@ -5,6 +5,11 @@
         "type": "Roster"
     },
     {
+        "name": "NBA 2019-20 v4 TEST (10/23/19)",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA2019-20v4.json",
+        "type": "Roster"
+    },
+    {
         "name": "NBA 2018-19",
         "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Basketball-2020-Rosters/master/NBA2018-19v3.json",
         "type": "Roster"

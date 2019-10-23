@@ -1,0 +1,866 @@
+[
+    {
+      "teamId": 1,
+      "name": "Tacko Fall",
+      "number": 99,
+      "position": 4,
+      "age": 23,
+      "height": "7\"6'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3904625.png&w=200&h=145"
+    },
+    {
+      "teamId": 1,
+      "name": "Vincent Poirier",
+      "number": 77,
+      "position": 4,
+      "age": 26,
+      "height": "7\"0'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4237215.png&w=200&h=145"
+    },
+    {
+      "teamId": 15,
+      "name": "Duncan Robinson",
+      "number": 55,
+      "position": 2,
+      "age": 25,
+      "height": "6\"7'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3157465.png&w=200&h=145"
+    },
+    {
+      "teamId": 1,
+      "name": "Tremont Waters",
+      "number": 51,
+      "position": 0,
+      "age": 21,
+      "height": "5\"11'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278080.png&w=200&h=145"
+    },
+    {
+      "teamId": 14,
+      "name": "John Konchar",
+      "number": 46,
+      "position": 1,
+      "age": 23,
+      "height": "6\"5'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3134932.png&w=200&h=145"
+    },
+    {
+      "teamId": 18,
+      "name": "Zylan Cheatham",
+      "number": 45,
+      "position": 2,
+      "age": 23,
+      "height": "6\"8'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3137713.png&w=200&h=145"
+    },
+    {
+      "teamId": 1,
+      "name": "Robert Williams III",
+      "number": 44,
+      "position": 4,
+      "age": 22,
+      "height": "6\"10'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066211.png&w=200&h=145"
+    },
+    {
+      "teamId": 16,
+      "name": "Thanasis Antetokounmpo",
+      "number": 43,
+      "position": 2,
+      "age": 27,
+      "height": "6\"7'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3102533.png&w=200&h=145"
+    },
+    {
+      "teamId": 1,
+      "name": "Javonte Green",
+      "number": 43,
+      "position": 1,
+      "age": 26,
+      "height": "6\"5'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2596112.png&w=200&h=145"
+    },
+    {
+      "teamId": 21,
+      "name": "Melvin Frazier Jr.",
+      "number": 35,
+      "position": 1,
+      "age": 23,
+      "height": "6\"6'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3913546.png&w=200&h=145"
+    },
+    {
+      "teamId": 22,
+      "name": "Marial Shayok",
+      "number": 35,
+      "position": 1,
+      "age": 24,
+      "height": "6\"5'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3138201.png&w=200&h=145"
+    },
+    {
+      "teamId": 8,
+      "name": "Christian Wood",
+      "number": 35,
+      "position": 3,
+      "age": 24,
+      "height": "6\"10'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3058254.png&w=200&h=145"
+    },
+    {
+      "teamId": 5,
+      "name": "Tyler Cook",
+      "number": 34,
+      "position": 3,
+      "age": 22,
+      "height": "6\"9'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066367.png&w=200&h=145"
+    },
+    {
+      "teamId": 2,
+      "name": "Nicolas Claxton",
+      "number": 33,
+      "position": 3,
+      "age": 20,
+      "height": "6\"11'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278067.png&w=200&h=145"
+    },
+    {
+      "teamId": 9,
+      "name": "Marquese Chriss",
+      "number": 32,
+      "position": 3,
+      "age": 22,
+      "height": "6\"10'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3907487.png&w=200&h=145"
+    },
+    {
+      "teamId": 5,
+      "name": "Dean Wade",
+      "number": 32,
+      "position": 3,
+      "age": 22,
+      "height": "6\"10'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3912848.png&w=200&h=145"
+    },
+    {
+      "teamId": 7,
+      "name": "Vlatko Cancar",
+      "number": 31,
+      "position": 2,
+      "age": 22,
+      "height": "6\"8'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4230557.png&w=200&h=145"
+    },
+    {
+      "teamId": 15,
+      "name": "Chris Silva",
+      "number": 30,
+      "position": 3,
+      "age": 23,
+      "height": "6\"8'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3923253.png&w=200&h=145"
+    },
+    {
+      "teamId": 17,
+      "name": "Kelan Martin",
+      "number": 30,
+      "position": 2,
+      "age": 24,
+      "height": "6\"6'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3133596.png&w=200&h=145"
+    },
+    {
+      "teamId": 21,
+      "name": "Wes Iwundu",
+      "number": 25,
+      "position": 2,
+      "age": 24,
+      "height": "6\"7'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3074797.png&w=200&h=145"
+    },
+    {
+      "teamId": 15,
+      "name": "Kendrick Nunn",
+      "number": 25,
+      "position": 1,
+      "age": 24,
+      "height": "6\"2'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3056247.png&w=200&h=145"
+    },
+    {
+      "teamId": 27,
+      "name": "Miye Oni",
+      "number": 24,
+      "position": 1,
+      "age": 22,
+      "height": "6\"6'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066851.png&w=200&h=145"
+    },
+    {
+      "teamId": 29,
+      "name": "Garrison Mathews",
+      "number": 24,
+      "position": 1,
+      "age": 22,
+      "height": "6\"7'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3913180.png&w=200&h=145"
+    },
+    {
+      "teamId": 0,
+      "name": "Bruno Fernando",
+      "number": 24,
+      "position": 3,
+      "age": 21,
+      "height": "6\"10'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4277952.png&w=200&h=145"
+    },
+    {
+      "teamId": 3,
+      "name": "Kobi Simmons",
+      "number": 23,
+      "position": 0,
+      "age": 22,
+      "height": "6\"5'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066335.png&w=200&h=145"
+    },
+    {
+      "teamId": 14,
+      "name": "Marko Guduric",
+      "number": 23,
+      "position": 1,
+      "age": 24,
+      "height": "6\"6'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4230554.png&w=200&h=145"
+    },
+    {
+      "teamId": 6,
+      "name": "Josh Reaves",
+      "number": 23,
+      "position": 1,
+      "age": 22,
+      "height": "6\"5'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3912278.png&w=200&h=145"
+    },
+    {
+      "teamId": 3,
+      "name": "Robert Franks",
+      "number": 22,
+      "position": 2,
+      "age": 22,
+      "height": "6\"9'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3922235.png&w=200&h=145"
+    },
+    {
+      "teamId": 20,
+      "name": "Devon Hall",
+      "number": 22,
+      "position": 1,
+      "age": 24,
+      "height": "6\"5'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3059285.png&w=200&h=145"
+    },
+    {
+      "teamId": 0,
+      "name": "Cam Reddish",
+      "number": 22,
+      "position": 2,
+      "age": 20,
+      "height": "6\"8'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395627.png&w=200&h=145"
+    },
+    {
+      "teamId": 13,
+      "name": "Zach Norvell Jr.",
+      "number": 21,
+      "position": 1,
+      "age": 21,
+      "height": "6\"5'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066649.png&w=200&h=145"
+    },
+    {
+      "teamId": 10,
+      "name": "Michael Frazier",
+      "number": 21,
+      "position": 1,
+      "age": 25,
+      "height": "6\"4'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2991255.png&w=200&h=145"
+    },
+    {
+      "teamId": 28,
+      "name": "Matt Thomas",
+      "number": 21,
+      "position": 1,
+      "age": 25,
+      "height": "6\"5'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3059311.png&w=200&h=145"
+    },
+    {
+      "teamId": 4,
+      "name": "Adam Mokoka",
+      "number": 20,
+      "position": 1,
+      "age": 21,
+      "height": "6\"5'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4349241.png&w=200&h=145"
+    },
+    {
+      "teamId": 18,
+      "name": "Nicolo Melli",
+      "number": 20,
+      "position": 3,
+      "age": 28,
+      "height": "6\"9'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4341.png&w=200&h=145"
+    },
+    {
+      "teamId": 25,
+      "name": "Harry Giles III",
+      "number": 20,
+      "position": 3,
+      "age": 21,
+      "height": "6\"10'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065649.png&w=200&h=145"
+    },
+    {
+      "teamId": 28,
+      "name": "Dewan Hernandez",
+      "number": 20,
+      "position": 4,
+      "age": 22,
+      "height": "6\"11'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065672.png&w=200&h=145"
+    },
+    {
+      "teamId": 25,
+      "name": "DaQuan Jeffries",
+      "number": 19,
+      "position": 2,
+      "age": 22,
+      "height": "6\"5'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3913220.png&w=200&h=145"
+    },
+    {
+      "teamId": 8,
+      "name": "Jordan Bone",
+      "number": 18,
+      "position": 0,
+      "age": 21,
+      "height": "6\"2'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066212.png&w=200&h=145"
+    },
+    {
+      "teamId": 19,
+      "name": "Ignas Brazdeikis",
+      "number": 17,
+      "position": 2,
+      "age": 20,
+      "height": "6\"7'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4397205.png&w=200&h=145"
+    },
+    {
+      "teamId": 10,
+      "name": "Ben McLemore",
+      "number": 16,
+      "position": 1,
+      "age": 26,
+      "height": "6\"5'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2578213.png&w=200&h=145"
+    },
+    {
+      "teamId": 26,
+      "name": "Quinndary Weatherspoon",
+      "number": 15,
+      "position": 1,
+      "age": 23,
+      "height": "6\"4'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3907358.png&w=200&h=145"
+    },
+    {
+      "teamId": 16,
+      "name": "Frank Mason III",
+      "number": 15,
+      "position": 0,
+      "age": 25,
+      "height": "5\"11'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3059315.png&w=200&h=145"
+    },
+    {
+      "teamId": 12,
+      "name": "Johnathan Motley",
+      "number": 15,
+      "position": 3,
+      "age": 24,
+      "height": "6\"10'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3059306.png&w=200&h=145"
+    },
+    {
+      "teamId": 27,
+      "name": "Stanton Kidd",
+      "number": 15,
+      "position": 2,
+      "age": 27,
+      "height": "6\"7'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2995105.png&w=200&h=145"
+    },
+    {
+      "teamId": 11,
+      "name": "Naz Mitrou-Long",
+      "number": 15,
+      "position": 1,
+      "age": 26,
+      "height": "6\"4'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2990968.png&w=200&h=145"
+    },
+    {
+      "teamId": 22,
+      "name": "Norvel Pelle",
+      "number": 14,
+      "position": 2,
+      "age": 26,
+      "height": "6\"10'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2608892.png&w=200&h=145"
+    },
+    {
+      "teamId": 8,
+      "name": "Louis King",
+      "number": 14,
+      "position": 2,
+      "age": 20,
+      "height": "6\"8'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4397103.png&w=200&h=145"
+    },
+    {
+      "teamId": 12,
+      "name": "Terance Mann",
+      "number": 14,
+      "position": 1,
+      "age": 23,
+      "height": "6\"7'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3907823.png&w=200&h=145"
+    },
+    {
+      "teamId": 27,
+      "name": "Tony Bradley",
+      "number": 13,
+      "position": 4,
+      "age": 21,
+      "height": "6\"10'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065673.png&w=200&h=145"
+    },
+    {
+      "teamId": 19,
+      "name": "Marcus Morris",
+      "number": 13,
+      "position": 3,
+      "age": 30,
+      "height": "6\"9'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6462.png&w=200&h=145"
+    },
+    {
+      "teamId": 4,
+      "name": "Daniel Gafford",
+      "number": 12,
+      "position": 3,
+      "age": 21,
+      "height": "6\"11'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278049.png&w=200&h=145"
+    },
+    {
+      "teamId": 9,
+      "name": "Ky Bowman",
+      "number": 12,
+      "position": 0,
+      "age": 22,
+      "height": "6\"1'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065635.png&w=200&h=145"
+    },
+    {
+      "teamId": 23,
+      "name": "Jared Harper",
+      "number": 12,
+      "position": 0,
+      "age": 22,
+      "height": "5\"11'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066248.png&w=200&h=145"
+    },
+    {
+      "teamId": 28,
+      "name": "Oshae Brissett",
+      "number": 12,
+      "position": 2,
+      "age": 21,
+      "height": "6\"8'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278031.png&w=200&h=145"
+    },
+    {
+      "teamId": 3,
+      "name": "Cody Martin",
+      "number": 11,
+      "position": 2,
+      "age": 24,
+      "height": "6\"7'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3138161.png&w=200&h=145"
+    },
+    {
+      "teamId": 22,
+      "name": "James Ennis III",
+      "number": 11,
+      "position": 2,
+      "age": 29,
+      "height": "6\"6'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2579321.png&w=200&h=145"
+    },
+    {
+      "teamId": 17,
+      "name": "Naz Reid",
+      "number": 11,
+      "position": 4,
+      "age": 20,
+      "height": "6\"10'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4396971.png&w=200&h=145"
+    },
+    {
+      "teamId": 3,
+      "name": "Caleb Martin",
+      "number": 10,
+      "position": 2,
+      "age": 24,
+      "height": "6\"7'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3138160.png&w=200&h=145"
+    },
+    {
+      "teamId": 7,
+      "name": "Bol Bol",
+      "number": 10,
+      "position": 4,
+      "age": 19,
+      "height": "7\"2'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4397102.png&w=200&h=145"
+    },
+    {
+      "teamId": 12,
+      "name": "Derrick Walton Jr.",
+      "number": 10,
+      "position": 0,
+      "age": 24,
+      "height": "6\"1'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3056273.png&w=200&h=145"
+    },
+    {
+      "teamId": 11,
+      "name": "Brian Bowen II",
+      "number": 10,
+      "position": 2,
+      "age": 21,
+      "height": "6\"7'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4277882.png&w=200&h=145"
+    },
+    {
+      "teamId": 25,
+      "name": "Justin James",
+      "number": 10,
+      "position": 1,
+      "age": 22,
+      "height": "6\"7'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3914058.png&w=200&h=145"
+    },
+    {
+      "teamId": 6,
+      "name": "Isaiah Roby",
+      "number": 9,
+      "position": 2,
+      "age": 21,
+      "height": "6\"8'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066392.png&w=200&h=145"
+    },
+    {
+      "teamId": 9,
+      "name": "Eric Paschall",
+      "number": 7,
+      "position": 3,
+      "age": 22,
+      "height": "6\"9'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3133817.png&w=200&h=145"
+    },
+    {
+      "teamId": 12,
+      "name": "Amir Coffey",
+      "number": 7,
+      "position": 1,
+      "age": 22,
+      "height": "6\"8'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066387.png&w=200&h=145"
+    },
+    {
+      "teamId": 25,
+      "name": "Kyle Guy",
+      "number": 7,
+      "position": 1,
+      "age": 22,
+      "height": "6\"1'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065730.png&w=200&h=145"
+    },
+    {
+      "teamId": 3,
+      "name": "Jalen McDaniels",
+      "number": 6,
+      "position": 3,
+      "age": 21,
+      "height": "6\"10'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066731.png&w=200&h=145"
+    },
+    {
+      "teamId": 9,
+      "name": "Alen Smailagic",
+      "number": 6,
+      "position": 3,
+      "age": 19,
+      "height": "6\"10'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4401415.png&w=200&h=145"
+    },
+    {
+      "teamId": 24,
+      "name": "Jaylen Hoard",
+      "number": 6,
+      "position": 2,
+      "age": 20,
+      "height": "6\"9'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395688.png&w=200&h=145"
+    },
+    {
+      "teamId": 17,
+      "name": "Jordan McLaughlin",
+      "number": 6,
+      "position": 0,
+      "age": 23,
+      "height": "6\"0'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3134916.png&w=200&h=145"
+    },
+    {
+      "teamId": 21,
+      "name": "Mo Bamba",
+      "number": 5,
+      "position": 4,
+      "age": 21,
+      "height": "7\"1'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4277919.png&w=200&h=145"
+    },
+    {
+      "teamId": 20,
+      "name": "Luguentz Dort",
+      "number": 5,
+      "position": 1,
+      "age": 20,
+      "height": "6\"4'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4397020.png&w=200&h=145"
+    },
+    {
+      "teamId": 18,
+      "name": "Josh Gray",
+      "number": 5,
+      "position": 0,
+      "age": 26,
+      "height": "6\"1'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3001308.png&w=200&h=145"
+    },
+    {
+      "teamId": 13,
+      "name": "Talen Horton-Tucker",
+      "number": 5,
+      "position": 1,
+      "age": 18,
+      "height": "6\"4'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4396991.png&w=200&h=145"
+    },
+    {
+      "teamId": 27,
+      "name": "Jarrell Brantley",
+      "number": 5,
+      "position": 3,
+      "age": 23,
+      "height": "6\"7'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3912292.png&w=200&h=145"
+    },
+    {
+      "teamId": 29,
+      "name": "Justin Robinson",
+      "number": 5,
+      "position": 0,
+      "age": 22,
+      "height": "6\"2'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3945566.png&w=200&h=145"
+    },
+    {
+      "teamId": 21,
+      "name": "Josh Magette",
+      "number": 4,
+      "position": 0,
+      "age": 29,
+      "height": "6\"1'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4064727.png&w=200&h=145"
+    },
+    {
+      "teamId": 15,
+      "name": "KZ Okpala",
+      "number": 4,
+      "position": 2,
+      "age": 20,
+      "height": "6\"8'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278521.png&w=200&h=145"
+    },
+    {
+      "teamId": 5,
+      "name": "Kevin Porter Jr.",
+      "number": 4,
+      "position": 1,
+      "age": 19,
+      "height": "6\"6'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4397140.png&w=200&h=145"
+    },
+    {
+      "teamId": 24,
+      "name": "Moses Brown",
+      "number": 4,
+      "position": 4,
+      "age": 20,
+      "height": "7\"1'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4397126.png&w=200&h=145"
+    },
+    {
+      "teamId": 1,
+      "name": "Carsen Edwards",
+      "number": 4,
+      "position": 0,
+      "age": 21,
+      "height": "6\"0'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066407.png&w=200&h=145"
+    },
+    {
+      "teamId": 17,
+      "name": "Jaylen Nowell",
+      "number": 4,
+      "position": 1,
+      "age": 20,
+      "height": "6\"5'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278541.png&w=200&h=145"
+    },
+    {
+      "teamId": 0,
+      "name": "Charlie Brown Jr.",
+      "number": 4,
+      "position": 1,
+      "age": 21,
+      "height": "6\"7'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066508.png&w=200&h=145"
+    },
+    {
+      "teamId": 10,
+      "name": "Danuel House Jr.",
+      "number": 4,
+      "position": 2,
+      "age": 26,
+      "height": "6\"7'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2991155.png&w=200&h=145"
+    },
+    {
+      "teamId": 9,
+      "name": "Jordan Poole",
+      "number": 3,
+      "position": 1,
+      "age": 20,
+      "height": "6\"5'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4277956.png&w=200&h=145"
+    },
+    {
+      "teamId": 6,
+      "name": "Antonius Cleveland",
+      "number": 3,
+      "position": 1,
+      "age": 25,
+      "height": "6\"6'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3064237.png&w=200&h=145"
+    },
+    {
+      "teamId": 27,
+      "name": "Justin Wright-Foreman",
+      "number": 3,
+      "position": 0,
+      "age": 21,
+      "height": "6\"2'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3911566.png&w=200&h=145"
+    },
+    {
+      "teamId": 10,
+      "name": "Chris Clemons",
+      "number": 3,
+      "position": 0,
+      "age": 22,
+      "height": "5\"9'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3906603.png&w=200&h=145"
+    },
+    {
+      "teamId": 9,
+      "name": "Damion Lee",
+      "number": 1,
+      "position": 1,
+      "age": 26,
+      "height": "6\"6'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2595209.png&w=200&h=145"
+    },
+    {
+      "teamId": 29,
+      "name": "Admiral Schofield",
+      "number": 1,
+      "position": 2,
+      "age": 22,
+      "height": "6\"6'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3918423.png&w=200&h=145"
+    },
+    {
+      "teamId": 2,
+      "name": "David Nwaba",
+      "number": 0,
+      "position": 1,
+      "age": 26,
+      "height": "6\"5'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3062744.png&w=200&h=145"
+    },
+    {
+      "teamId": 27,
+      "name": "Nigel Williams-Goss",
+      "number": 0,
+      "position": 0,
+      "age": 25,
+      "height": "6\"3'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3064457.png&w=200&h=145"
+    },
+    {
+      "teamId": 23,
+      "name": "Jalen Lecque",
+      "number": 0,
+      "position": 0,
+      "age": 19,
+      "height": "6\"4'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4423887.png&w=200&h=145"
+    },
+    {
+      "teamId": 0,
+      "name": "Brandon Goodwin",
+      "number": 0,
+      "position": 0,
+      "age": 24,
+      "height": "6\"2'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3057198.png&w=200&h=145"
+    },
+    {
+      "teamId": 28,
+      "name": "Terence Davis",
+      "number": 0,
+      "position": 1,
+      "age": 22,
+      "height": "6\"4'",
+      "faceSrc": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3919454.png&w=200&h=145"
+    }
+  ]
